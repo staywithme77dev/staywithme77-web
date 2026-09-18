@@ -94,8 +94,12 @@ export default async function LocationPage() {
               addressLabel={t("addressLabel")}
               mapTitle={t("mapTitle")}
               openMapsLabel={t("openMaps")}
-              rating={siteConfig.reviews.rating}
-              reviewCount={siteConfig.reviews.reviewCount}
+              {...(siteConfig.features.reviewsEnabled
+                ? {
+                    rating: siteConfig.reviews.rating,
+                    reviewCount: siteConfig.reviews.reviewCount,
+                  }
+                : {})}
               mapClassName="min-h-[380px] lg:min-h-[560px]"
               details={[
                 {

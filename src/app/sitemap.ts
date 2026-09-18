@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { mockRooms } from "@/app/lib/mockDb";
 import { absoluteUrl, isProductionSite } from "@/app/lib/seo";
+import { siteConfig } from "@/app/lib/siteConfig";
 import {routing} from "@/i18n/routing";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -12,8 +13,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "x-default": absoluteUrl(`/en${path === "/" ? "" : path}`)
   });
 
+  const publicPaths = [
+    "/",
+    "/rooms",
+    "/about",
+    "/location",
+    "/contact",
+    ...(siteConfig.features.reviewsEnabled ? ["/reviews"] : []),
+    "/privacy",
+    "/terms",
+  ];
+
   const pages = routing.locales.flatMap((locale) =>
-    ["/", "/rooms", "/about", "/location", "/contact", "/reviews", "/privacy", "/terms"].map((path) => ({
+    publicPaths.map((path) => ({
       url: absoluteUrl(`/${locale}${path === "/" ? "" : path}`),
       changeFrequency: path === "/" ? "weekly" as const : "monthly" as const,
       priority: path === "/" ? 1 : 0.6,

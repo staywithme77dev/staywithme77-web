@@ -165,7 +165,7 @@ export default async function HomePage() {
       </div>
       <LocationSection />
 
-      <ReviewsSection />
+      {siteConfig.features.reviewsEnabled ? <ReviewsSection /> : null}
 
       <FinalCTASection />
 

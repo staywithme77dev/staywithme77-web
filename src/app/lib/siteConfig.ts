@@ -7,6 +7,12 @@ type LocalizedText = Readonly<Record<SiteLocale, string>>;
  * Keep operational data here; page copy stays in messages/*.
  */
 export const siteConfig = {
+  features: {
+    // Keep unfinished customer-facing flows out of the public site.
+    loginEnabled: false,
+    reviewsEnabled: false,
+  },
+
   brand: {
     name: {
       th: "สเตทวิทมี77",

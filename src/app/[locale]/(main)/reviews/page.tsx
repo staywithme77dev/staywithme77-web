@@ -9,6 +9,7 @@ import { getReviews } from "@/app/lib/reviews";
 import { absoluteUrl, localizedPageMetadata, localizedPath } from "@/app/lib/seo";
 import { siteConfig } from "@/app/lib/siteConfig";
 import { Link } from "@/i18n/navigation";
+import { notFound } from "next/navigation";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
@@ -17,6 +18,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 }
 
 export default async function ReviewsPage() {
+  if (!siteConfig.features.reviewsEnabled) notFound();
+
   const locale = await getLocale();
   const t = await getTranslations("ReviewsPage");
   const data = await getReviews(locale);

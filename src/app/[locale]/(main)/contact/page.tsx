@@ -178,8 +178,12 @@ export default async function ContactPage() {
               addressLabel={t("addressLabel")}
               mapTitle={t("locationTitle")}
               openMapsLabel={t("openMaps")}
-              rating={siteConfig.reviews.rating}
-              reviewCount={siteConfig.reviews.reviewCount}
+              {...(siteConfig.features.reviewsEnabled
+                ? {
+                    rating: siteConfig.reviews.rating,
+                    reviewCount: siteConfig.reviews.reviewCount,
+                  }
+                : {})}
               mapClassName="min-h-[330px] border-[#cfc7b9] shadow-none sm:min-h-[460px]"
               details={[
                 {

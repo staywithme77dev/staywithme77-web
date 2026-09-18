@@ -180,13 +180,15 @@ export default function Navbar() {
 
               <div className="flex items-center gap-2 xl:justify-self-end">
                 <LanguageSwitcher />
-                <Link
-                  href="/login"
-                  className="inline-flex items-center gap-2 rounded-full border border-current/15 px-4 py-2.5 text-xs font-semibold transition hover:bg-current/10"
-                >
-                  <LogIn size={15} />
-                  {t("login")}
-                </Link>
+                {siteConfig.features.loginEnabled ? (
+                  <Link
+                    href="/login"
+                    className="inline-flex items-center gap-2 rounded-full border border-current/15 px-4 py-2.5 text-xs font-semibold transition hover:bg-current/10"
+                  >
+                    <LogIn size={15} />
+                    {t("login")}
+                  </Link>
+                ) : null}
                 <Link
                   href="/rooms"
                   id="navbar-whatsapp-cta"
@@ -227,13 +229,17 @@ export default function Navbar() {
               <LanguageSwitcher iconOnly />
             </div>
 
-            <Link
-              href="/login"
-              aria-label={t("login")}
-              className="order-3 flex h-10 w-10 items-center justify-center justify-self-end rounded-full text-current hover:bg-gray-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 xl:hidden"
-            >
-              <LogIn size={21} strokeWidth={1.8} aria-hidden="true" />
-            </Link>
+            {siteConfig.features.loginEnabled ? (
+              <Link
+                href="/login"
+                aria-label={t("login")}
+                className="order-3 flex h-10 w-10 items-center justify-center justify-self-end rounded-full text-current hover:bg-gray-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 xl:hidden"
+              >
+                <LogIn size={21} strokeWidth={1.8} aria-hidden="true" />
+              </Link>
+            ) : (
+              <span className="order-3 h-10 w-10 xl:hidden" aria-hidden="true" />
+            )}
           </div>
         </div>
       </header>

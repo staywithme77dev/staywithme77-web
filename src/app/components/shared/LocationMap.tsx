@@ -11,7 +11,7 @@ type LocationMapProps = {
   className?: string;
 };
 
-export default function LocationMap({ address, mapTitle, openMapsLabel, rating = 0, reviewCount = 0, className = "" }: LocationMapProps) {
+export default function LocationMap({ address, mapTitle, openMapsLabel, rating, reviewCount, className = "" }: LocationMapProps) {
   return (
     <div className={`group relative min-h-[360px] overflow-hidden border border-[#e8e3da] bg-[#f5f3ee] shadow-[0_18px_45px_rgba(30,27,20,0.08)] lg:min-h-[520px] ${className}`}>
       <iframe title={mapTitle} src={siteConfig.location.googleMapsEmbedUrl} className="pointer-events-none absolute inset-0 h-full w-full border-0" allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" tabIndex={-1} aria-hidden="true" />
@@ -27,12 +27,14 @@ export default function LocationMap({ address, mapTitle, openMapsLabel, rating =
       <div className="pointer-events-none absolute left-2 top-2 z-30 w-max max-w-[calc(100%-1rem)] border border-slate-200/80 bg-white/95 p-2.5 shadow-[0_12px_32px_rgba(25,25,35,0.18)] backdrop-blur-sm sm:left-5 sm:top-5 sm:w-[min(320px,calc(100%-2rem))] sm:p-5">
         <p className="text-[11px] font-bold text-foreground sm:text-sm">{siteConfig.brand.displayName}</p>
         <p className="mt-0.5 max-w-[230px] text-[9px] leading-3.5 text-slate-500 sm:mt-1 sm:max-w-none sm:text-xs sm:leading-5">{address}</p>
-        <div className="mt-1 flex items-center gap-1 text-[9px] sm:mt-2 sm:gap-2 sm:text-xs">
-          <strong className="text-foreground">{rating ? rating.toFixed(1) : "—"}</strong>
-          <span className="sr-only">{rating ? `${rating.toFixed(1)} / 5` : "—"}</span>
-          <span className="tracking-wide text-[#c9a84c]" aria-hidden="true">{Array.from({ length: 5 }, (_, index) => (index < rating ? "★" : "☆")).join("")}</span>
-          <span className="text-slate-400">({reviewCount})</span>
-        </div>
+        {typeof rating === "number" && typeof reviewCount === "number" ? (
+          <div className="mt-1 flex items-center gap-1 text-[9px] sm:mt-2 sm:gap-2 sm:text-xs">
+            <strong className="text-foreground">{rating.toFixed(1)}</strong>
+            <span className="sr-only">{`${rating.toFixed(1)} / 5`}</span>
+            <span className="tracking-wide text-[#c9a84c]" aria-hidden="true">{Array.from({ length: 5 }, (_, index) => (index < rating ? "★" : "☆")).join("")}</span>
+            <span className="text-slate-400">({reviewCount})</span>
+          </div>
+        ) : null}
         <span className="mt-1.5 inline-flex items-center gap-1 bg-[#1d73e8] px-2 py-1 text-[9px] font-bold text-white sm:mt-3 sm:gap-1.5 sm:px-3 sm:py-2 sm:text-xs"><MapPin size={14} aria-hidden="true" />{openMapsLabel}</span>
       </div>
       <span className="pointer-events-none absolute bottom-4 left-4 right-4 z-30 inline-flex items-center gap-2 bg-white/95 px-4 py-3 text-xs font-medium text-slate-700 shadow-lg backdrop-blur-sm md:right-auto md:w-max md:max-w-[calc(100%-2rem)]"><MapPin size={16} className="shrink-0 text-accent" aria-hidden="true" /><span className="md:whitespace-nowrap">{address}</span></span>

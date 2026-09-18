@@ -10,7 +10,6 @@ import {
 import { getLocale, getTranslations } from "next-intl/server";
 import { getSiteText, siteConfig } from "@/app/lib/siteConfig";
 
-import { getReviews } from "@/app/lib/reviews";
 import LocationMap from "@/app/components/shared/LocationMap";
 
 type Metric = [string, string, "airport" | "downtown" | "university"];
@@ -34,12 +33,6 @@ export default async function LocationSection() {
   const metrics = t.raw("metrics") as Metric[];
   const transportItems = t.raw("transportItems") as TransportItem[];
 
-  const reviewData = await getReviews(locale);
-
-  const googleRating = reviewData.rating;
-
-  const googleReviewCount = reviewData.reviewCount;
-
   return (
     <section
       id="location"
@@ -60,8 +53,12 @@ export default async function LocationSection() {
             address={t("address") || getSiteText(siteConfig.location.name, locale)}
             mapTitle={t("mapTitle")}
             openMapsLabel={t("openMaps")}
-            rating={googleRating}
-            reviewCount={googleReviewCount}
+            {...(siteConfig.features.reviewsEnabled
+              ? {
+                  rating: siteConfig.reviews.rating,
+                  reviewCount: siteConfig.reviews.reviewCount,
+                }
+              : {})}
             className="min-h-[360px] lg:min-h-[520px]"
           />
 

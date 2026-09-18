@@ -4,6 +4,7 @@ import { getTranslations } from "next-intl/server";
 import {localizedPageMetadata} from "@/app/lib/seo";
 import Image from "next/image";
 import { siteConfig } from "@/app/lib/siteConfig";
+import { notFound } from "next/navigation";
 
 export async function generateMetadata({params}: {params: Promise<{locale: string}>}): Promise<Metadata> {
   const {locale} = await params;
@@ -12,6 +13,8 @@ export async function generateMetadata({params}: {params: Promise<{locale: strin
 }
 
 export default async function LoginPage() {
+  if (!siteConfig.features.loginEnabled) notFound();
+
   const t = await getTranslations("Login");
   return (
     <div className="w-full max-w-full overflow-x-hidden bg-[#f9f5ee] px-4 pb-20 pt-32 sm:px-6 lg:pt-36">
