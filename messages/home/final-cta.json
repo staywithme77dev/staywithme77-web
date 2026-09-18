@@ -1,0 +1,31 @@
+{
+  "th": {
+    "FinalCTA": {
+      "title": "การันตีราคาดีที่สุด",
+      "titleAccent": "เมื่อจองผ่าน เว็บตรง",
+      "description": "ไม่ผ่านตัวกลาง จองตรงกับเจ้าของที่พัก\nรับส่วนลดพิเศษและบริการที่ดีที่สุด",
+      "perks": [
+        "ราคาดีกว่าทุกแพลตฟอร์ม",
+        "ตอบเร็วภายใน 15 นาที",
+        "ไม่มีค่าคอมมิชชัน"
+      ],
+      "button": "เลือกห้องทันที",
+      "hours": "เปิดทุกวัน 8:00 – 22:00 น."
+    }
+  },
+  "en": {
+    "FinalCTA": {
+      "title": "Best price guaranteed",
+      "titleAccent": "when booking via webssite.",
+      "description": "Book directly with the property, with no middleman\nGet special rates and our best service",
+      "perks": [
+        "Better rates than booking platforms",
+        "Replies within 15 minutes",
+        "No commission fees"
+      ],
+      "button": "Select a room now.",
+      "hours": "Open daily, 8:00 AM–10:00 PM"
+    }
+  }
+}
+

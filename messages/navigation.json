@@ -1,0 +1,58 @@
+{
+  "th": {
+    "Navbar": {
+      "announcement": "ตรวจสอบห้องว่างและราคา",
+      "whatsapp": "ดูห้องพัก",
+      "home": "หน้าแรก",
+      "rooms": "ห้องพัก",
+      "location": "ที่ตั้ง",
+      "contact": "ติดต่อ",
+      "about": "เกี่ยวกับเรา",
+      "login": "เข้าสู่ระบบ",
+      "book": "จองเลย",
+      "openMenu": "เปิดเมนู",
+      "closeMenu": "ปิดเมนู"
+    },
+    "Footer": {
+      "tagline": "ที่พักรายวันใจกลางหาดใหญ่\nห้องสะอาด บรรยากาศดี ราคาดีที่สุด\nจองตรงไม่ผ่านแพลตฟอร์ม",
+      "roomsTitle": "ห้องพักของเรา",
+      "quickLinks": "ลิงก์ด่วน",
+      "contact": "ติดต่อเรา",
+      "privacy": "นโยบายความเป็นส่วนตัว",
+      "terms": "ข้อตกลงการใช้บริการ",
+      "copyright": "สงวนลิขสิทธิ์ทุกประการ"
+    },
+    "Breadcrumbs": {
+      "aria": "เส้นทางหน้า",
+      "home": "หน้าแรก"
+    }
+  },
+  "en": {
+    "Navbar": {
+      "announcement": "Check room availability and rates",
+      "whatsapp": "View rooms",
+      "home": "Home",
+      "rooms": "Rooms",
+      "location": "Location",
+      "contact": "Contact",
+      "about": "About",
+      "login": "Sign in",
+      "book": "Book now",
+      "openMenu": "Open menu",
+      "closeMenu": "Close menu"
+    },
+    "Footer": {
+      "tagline": "Daily accommodation in central Hat Yai\nClean rooms, a pleasant atmosphere and great rates\nBook directly with the property",
+      "roomsTitle": "Our rooms",
+      "quickLinks": "Quick links",
+      "contact": "Contact us",
+      "privacy": "Privacy policy",
+      "terms": "Terms of service",
+      "copyright": "All rights reserved"
+    },
+    "Breadcrumbs": {
+      "aria": "Breadcrumb",
+      "home": "Home"
+    }
+  }
+}

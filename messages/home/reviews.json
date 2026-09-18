@@ -1,0 +1,105 @@
+{
+  "th": {
+    "Reviews": {
+      "title": "ผู้เข้าพักพูดถึงเรา",
+      "from": "จาก Google",
+      "andFacebook": "& Facebook",
+      "reviewCount": "{count} รีวิว",
+      "viewAll": "ดูรีวิวทั้งหมด",
+      "writeReview": "เขียนรีวิว",
+      "verified": "รีวิวจาก Google",
+      "reviewedFrom": "รีวิวจาก {source}",
+      "reviewedAt": "เมื่อ {date}",
+      "items": [
+        [
+          "สมศักดิ์ ว.",
+          "Google",
+          "มิถุนายน 2568",
+          "ห้องสะอาดมาก เจ้าของใจดีมาก ราคาคุ้มค่า ที่จอดรถกว้าง ใกล้ร้านอาหารเยอะ จะกลับมาพักอีก"
+        ],
+        [
+          "มาลี ร.",
+          "Facebook",
+          "กรกฎาคม 2568",
+          "พักมา 3 คืน ประทับใจมาก ห้องกว้าง เตียงนุ่ม แอร์เย็น Wi-Fi แรง ทำเลดี จองผ่าน WhatsApp ได้เร็ว"
+        ],
+        [
+          "นิรุตต์ ป.",
+          "Google",
+          "สิงหาคม 2568",
+          "มากับครอบครัว ห้องกว้างขวาง เจ้าของแนะนำร้านอาหารอร่อยในแวะแวกให้ด้วย อบอุ่นมากครับ"
+        ],
+        [
+          "พิมพ์ชนก ส.",
+          "Google",
+          "กันยายน 2568",
+          "ห้องตรงปก สะอาดและเงียบดีมาก เดินทางไปตลาดและร้านอาหารง่าย เจ้าของตอบแชตไว ประทับใจค่ะ"
+        ],
+        [
+          "ธนกร ว.",
+          "Facebook",
+          "ตุลาคม 2568",
+          "ที่พักคุ้มราคามาก ที่จอดรถสะดวก ห้องน้ำสะอาด แอร์เย็น นอนสบาย ไว้มาใช้บริการอีกแน่นอนครับ"
+        ],
+        [
+          "อรทัย น.",
+          "Google",
+          "พฤศจิกายน 2568",
+          "จองง่าย ได้คำแนะนำดีตั้งแต่ก่อนเข้าพัก ห้องกว้างและมีสิ่งอำนวยความสะดวกครบ เหมาะกับครอบครัวค่ะ"
+        ]
+      ]
+    }
+  },
+  "en": {
+    "Reviews": {
+      "title": "What our guests say",
+      "from": "From Google",
+      "andFacebook": "& Facebook",
+      "reviewCount": "{count} reviews",
+      "viewAll": "View all reviews",
+      "writeReview": "Write a review",
+      "verified": "Google review",
+      "reviewedFrom": "Review from {source}",
+      "reviewedAt": "{date}",
+      "items": [
+        [
+          "Somsak W.",
+          "Google",
+          "June 2025",
+          "Very clean room, friendly owner and great value. Spacious parking and plenty of restaurants nearby. I would stay again."
+        ],
+        [
+          "Malee R.",
+          "Facebook",
+          "July 2025",
+          "Stayed for three nights and loved it. Spacious room, comfortable bed, cool air conditioning, fast Wi-Fi and a great location."
+        ],
+        [
+          "Nirut P.",
+          "Google",
+          "August 2025",
+          "We stayed as a family. The room was spacious and the owner recommended excellent nearby restaurants. A very warm welcome."
+        ],
+        [
+          "Pimchanok S.",
+          "Google",
+          "September 2025",
+          "The room looked just like the photos, clean and quiet. Markets and restaurants were easy to reach and replies were quick."
+        ],
+        [
+          "Thanakorn W.",
+          "Facebook",
+          "October 2025",
+          "Excellent value, convenient parking, clean bathroom and comfortable sleep. I will definitely return."
+        ],
+        [
+          "Orathai N.",
+          "Google",
+          "November 2025",
+          "Easy booking and helpful advice before arrival. The room was spacious and well equipped—great for families."
+        ]
+      ]
+    }
+  }
+}
+

@@ -1,0 +1,66 @@
+{
+  "th": {
+    "RoomsCatalog": {
+      "title": "ห้องพักทั้งหมด",
+      "summary": "ว่างอยู่ {available} จาก {total} ห้อง · เริ่มต้น ฿900 / คืน",
+      "filter": "ตัวกรอง",
+      "results": "ผลการค้นหา",
+      "found": "พบ {count} ห้อง",
+      "searchSettings": "ตั้งค่าการค้นหา",
+      "closeFilter": "ปิดตัวกรอง",
+      "status": "สถานะห้อง",
+      "all": "ทั้งหมด",
+      "availableOnly": "เฉพาะห้องว่าง",
+      "minimumGuests": "ผู้เข้าพักขั้นต่ำ",
+      "unlimited": "ไม่จำกัด",
+      "twoPlus": "2 ท่านขึ้นไป",
+      "fourPlus": "4 ท่านขึ้นไป",
+      "maxPrice": "ราคาสูงสุดต่อคืน",
+      "upTo": "ไม่เกิน ฿{price}",
+      "bedType": "ประเภทเตียง",
+      "clear": "ล้างตัวกรอง",
+      "empty": "ไม่พบห้องพักตามเงื่อนไขที่เลือก ลองปรับตัวกรองอีกครั้งนะครับ",
+      "helpTitle": "ไม่แน่ใจว่าห้องไหนเหมาะ?",
+      "helpText": "ทีมงานพร้อมให้คำแนะนำ ตอบเร็วภายใน 15 นาที",
+      "ask": "สอบถามผ่าน WhatsApp"
+    },
+    "RoomsPage": {
+      "metaTitle": "ห้องพักทั้งหมด",
+      "metaDescription": "เลือกห้องพักที่ใช่ ตั้งแต่ Standard ถึง Family Suite ราคาเริ่มต้น ฿900/คืน",
+      "breadcrumb": "ห้องพัก",
+      "searchSummary": "{checkIn} – {checkOut} · {guests} ท่าน"
+    }
+  },
+  "en": {
+    "RoomsCatalog": {
+      "title": "All rooms",
+      "summary": "{available} of {total} rooms available · from THB 900 per night",
+      "filter": "Filters",
+      "results": "Search results",
+      "found": "{count} rooms found",
+      "searchSettings": "Search filters",
+      "closeFilter": "Close filters",
+      "status": "Availability",
+      "all": "All",
+      "availableOnly": "Available rooms only",
+      "minimumGuests": "Minimum guests",
+      "unlimited": "No limit",
+      "twoPlus": "2 guests or more",
+      "fourPlus": "4 guests or more",
+      "maxPrice": "Maximum nightly price",
+      "upTo": "Up to THB {price}",
+      "bedType": "Bed type",
+      "clear": "Clear filters",
+      "empty": "No rooms match your selected filters. Try adjusting the filters.",
+      "helpTitle": "Not sure which room is right?",
+      "helpText": "Our team is ready to help and usually replies within 15 minutes",
+      "ask": "Ask via WhatsApp"
+    },
+    "RoomsPage": {
+      "metaTitle": "All rooms",
+      "metaDescription": "Choose the right room from Standard rooms to Family Suites, starting from THB 900 per night",
+      "breadcrumb": "Rooms",
+      "searchSummary": "{checkIn} – {checkOut} · {guests} guests"
+    }
+  }
+}

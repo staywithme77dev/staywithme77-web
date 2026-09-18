@@ -1,0 +1,368 @@
+{
+  "rooms": [
+    {
+      "id": "1",
+      "slug": "spacious-room-201",
+      "bookingLinks": {
+        "airbnb": "https://th.airbnb.com/rooms/1769529054757211573"
+      },
+      "capacity": 2,
+      "price": 1350,
+      "available": true,
+      "size": 22,
+      "image": [
+        {
+          "url": "/images/Rooms/room-201/room-201-01-cover.webp",
+          "sortOrder": 0,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-201/room-201-02.webp",
+          "sortOrder": 1,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-201/room-201-03.webp",
+          "sortOrder": 2,
+          "isCover": true
+        },
+        {
+          "url": "/images/Rooms/room-201/room-201-04.webp",
+          "sortOrder": 3,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-201/room-201-05.webp",
+          "sortOrder": 4,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-201/room-201-06.webp",
+          "sortOrder": 5,
+          "isCover": false
+        }
+      ],
+      "amenityKeys": ["wifi", "ac", "tv", "shower", "fridge"],
+      "featured": true,
+      "th": {
+        "name": "Spacious Room 201",
+        "bedType": "เตียงดับเบิล",
+        "description": "ห้องพักอบอุ่น เหมาะสำหรับคู่รักหรือผู้เดินทางเดี่ยว ตกแต่งสไตล์โมเดิร์น สะอาด ครบครัน",
+        "amenities": [
+          "Wi-Fi ฟรี",
+          "แอร์ปรับอากาศ",
+          "สมาร์ทีวี",
+          "น้ำอุ่น",
+          "ตู้เย็น"
+        ]
+      },
+      "en": {
+        "name": "Spacious Room 201",
+        "bedType": "Double bed",
+        "description": "A warm, modern room for couples or solo travellers, with a clean interior and all essential amenities.",
+        "amenities": [
+          "Free Wi-Fi",
+          "Air conditioning",
+          "Smart TV",
+          "Hot shower",
+          "Refrigerator"
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "slug": "double-room-301",
+      "bookingLinks": {
+        "airbnb": "https://th.airbnb.com/rooms/1762715276891237440"
+      },
+      "capacity": 2,
+      "price": 1650,
+      "available": true,
+      "size": 22,
+      "image": [
+        {
+          "url": "/images/Rooms/room-301/room-301-01-cover.webp",
+          "sortOrder": 0,
+          "isCover": true
+        },
+        {
+          "url": "/images/Rooms/room-301/room-301-02.webp",
+          "sortOrder": 1,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-301/room-301-03.webp",
+          "sortOrder": 2,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-301/room-301-04.webp",
+          "sortOrder": 3,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-301/room-301-05.webp",
+          "sortOrder": 4,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-301/room-301-06.webp",
+          "sortOrder": 5,
+          "isCover": false
+        }
+      ],
+      "amenityKeys": ["wifi", "ac", "tv", "shower", "fridge"],
+      "th": {
+        "name": "Double Room 301",
+        "bedType": "เตียงดับเบิล",
+        "description": "ห้องพักอบอุ่น เหมาะสำหรับคู่รักหรือผู้เดินทางเดี่ยว ตกแต่งสไตล์โมเดิร์น สะอาด ครบครัน",
+        "amenities": [
+          "Wi-Fi ฟรี",
+          "แอร์ปรับอากาศ",
+          "สมาร์ทีวี",
+          "น้ำอุ่น",
+          "ตู้เย็น"
+        ]
+      },
+      "en": {
+        "name": "Double Room 301",
+        "bedType": "Double bed",
+        "description": "A warm, modern room for couples or solo travellers, with a clean interior and all essential amenities.",
+        "amenities": [
+          "Free Wi-Fi",
+          "Air conditioning",
+          "Smart TV",
+          "Hot shower",
+          "Refrigerator"
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "slug": "cozy-single-room-302",
+      "bookingLinks": {
+        "airbnb": "https://th.airbnb.com/rooms/1758436087949572849"
+      },
+      "capacity": 2,
+      "price": 800,
+      "available": true,
+      "size": 28,
+      "image": [
+        {
+          "url": "/images/Rooms/room-302/room-302-01-cover.webp",
+          "sortOrder": 0,
+          "isCover": true
+        },
+        {
+          "url": "/images/Rooms/room-302/room-302-02.webp",
+          "sortOrder": 1,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-302/room-302-03.webp",
+          "sortOrder": 2,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-302/room-302-04.webp",
+          "sortOrder": 3,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-302/room-302-05.webp",
+          "sortOrder": 4,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-302/room-302-06.webp",
+          "sortOrder": 5,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-302/room-302-07.webp",
+          "sortOrder": 6,
+          "isCover": false
+        }
+      ],
+      "amenityKeys": ["wifi", "ac", "tv", "fridge", "shower", "city"],
+      "featured": true,
+      "th": {
+        "name": "Cozy Single Room 302",
+        "bedType": "เตียงเดี่ยว 2 เตียง",
+        "description": "ห้องกว้างขวางพร้อมเตียงเดี่ยว 2 เตียง เหมาะสำหรับเพื่อนหรือเพื่อนร่วมงาน วิวเมืองสวยงาม",
+        "amenities": [
+          "Wi-Fi ฟรี",
+          "แอร์ปรับอากาศ",
+          "สมาร์ทีวี",
+          "ตู้เย็น",
+          "น้ำอุ่น",
+          "วิวเมือง"
+        ]
+      },
+      "en": {
+        "name": "Cozy Single Room 302",
+        "bedType": "2 single beds",
+        "description": "A spacious twin room for friends or colleagues, featuring two single beds and a pleasant city view.",
+        "amenities": [
+          "Free Wi-Fi",
+          "Air conditioning",
+          "Smart TV",
+          "Refrigerator",
+          "Hot shower",
+          "City view"
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "slug": "loft-suite-401",
+      "bookingLinks": {
+        "airbnb": "https://th.airbnb.com/rooms/1762727810717889802"
+      },
+      "capacity": 2,
+      "price": 1200,
+      "available": true,
+      "size": 28,
+      "image": [
+        {
+          "url": "/images/Rooms/room-401/room-401-01-cover.webp",
+          "sortOrder": 0,
+          "isCover": true
+        },
+        {
+          "url": "/images/Rooms/room-401/room-401-02.webp",
+          "sortOrder": 1,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-401/room-401-03.webp",
+          "sortOrder": 2,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-401/room-401-04.webp",
+          "sortOrder": 3,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-401/room-401-05.webp",
+          "sortOrder": 4,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-401/room-401-06.webp",
+          "sortOrder": 5,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-401/room-401-07.webp",
+          "sortOrder": 6,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-401/room-401-08.webp",
+          "sortOrder": 7,
+          "isCover": false
+        }
+      ],
+      "amenityKeys": ["wifi", "ac", "tv", "fridge", "shower", "city"],
+      "th": {
+        "name": "Loft Suite 401",
+        "bedType": "เตียงเดี่ยว 2 เตียง",
+        "description": "ห้องกว้างขวางพร้อมเตียงเดี่ยว 2 เตียง เหมาะสำหรับเพื่อนหรือเพื่อนร่วมงาน วิวเมืองสวยงาม",
+        "amenities": [
+          "Wi-Fi ฟรี",
+          "แอร์ปรับอากาศ",
+          "สมาร์ทีวี",
+          "ตู้เย็น",
+          "น้ำอุ่น",
+          "วิวเมือง"
+        ]
+      },
+      "en": {
+        "name": "Loft Suite 401",
+        "bedType": "2 single beds",
+        "description": "A spacious twin room for friends or colleagues, featuring two single beds and a pleasant city view.",
+        "amenities": [
+          "Free Wi-Fi",
+          "Air conditioning",
+          "Smart TV",
+          "Refrigerator",
+          "Hot shower",
+          "City view"
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "slug": "cozy-loft-402",
+      "bookingLinks": {
+        "airbnb": "https://th.airbnb.com/rooms/1770119686765095995"
+      },
+      "capacity": 4,
+      "price": 1450,
+      "available": true,
+      "size": 45,
+      "image": [
+        {
+          "url": "/images/Rooms/room-402/room-402-01-cover.webp",
+          "sortOrder": 0,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-402/room-402-02.webp",
+          "sortOrder": 1,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-402/room-402-03.webp",
+          "sortOrder": 2,
+          "isCover": true
+        },
+        {
+          "url": "/images/Rooms/room-402/room-402-04.webp",
+          "sortOrder": 3,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-402/room-402-05.webp",
+          "sortOrder": 4,
+          "isCover": false
+        },
+        {
+          "url": "/images/Rooms/room-402/room-402-06.webp",
+          "sortOrder": 5,
+          "isCover": false
+        }
+      ],
+      "amenityKeys": ["wifi", "ac", "tv", "fridge", "shower", "sofa"],
+      "featured": true,
+      "th": {
+        "name": "Cozy Loft 402",
+        "bedType": "คิงไซส์ + โซฟาเบด",
+        "description": "ห้องสวีทกว้างขวางสำหรับครอบครัว มีพื้นที่นั่งเล่นแยก เหมาะสำหรับครอบครัวสูงสุด 4 ท่าน",
+        "amenities": [
+          "Wi-Fi ฟรี",
+          "แอร์ปรับอากาศ",
+          "สมาร์ทีวี",
+          "ตู้เย็น",
+          "น้ำอุ่น",
+          "โซฟาเบด"
+        ]
+      },
+      "en": {
+        "name": "Cozy Loft 402",
+        "bedType": "King bed + sofa bed",
+        "description": "A spacious family suite with a separate living area, suitable for families of up to four guests.",
+        "amenities": [
+          "Free Wi-Fi",
+          "Air conditioning",
+          "Smart TV",
+          "Refrigerator",
+          "Hot shower",
+          "Sofa bed"
+        ]
+      }
+    }
+  ]
+}

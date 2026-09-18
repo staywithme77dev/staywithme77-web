@@ -1,0 +1,153 @@
+{
+  "th": {
+    "AboutPage": {
+      "metaTitle": "เกี่ยวกับเรา | Stay With Me 77@Hatyai Residence ห้องพักรายวัน",
+      "metaDescription": "ที่พักหาดใหญ่รายวันและรายเดือน ใกล้ ม.อ. เซ็นทรัลเฟสติวัล และโรงพยาบาลกรุงเทพหาดใหญ่ ห้องพักกว้างขวาง มีที่จอดรถส่วนตัว ซอยเพชรเกษม 10 คอหงส์",
+      "hero": {
+        "title": "เกี่ยวกับเรา",
+        "subtitle": "สเตย์ วิท มี 77 แอท หาดใหญ่ เรสซิเดนซ์ — ที่พักหาดใหญ่ ห้องพักกว้างขวาง ที่ให้ความรู้สึกเหมือนบ้าน",
+        "imageAlt": "ห้องพักของ Stay With Me 77 ที่พักหาดใหญ่"
+      },
+      "story": {
+        "title": "จุดเริ่มต้นของเรา",
+        "description": "Stay With Me 77@Hatyai Residence เกิดขึ้นจากความตั้งใจที่อยากให้ทุกคนที่เดินทางมาหาดใหญ่ ได้มีห้องพักรายวันและรายเดือนที่เงียบสงบ ให้ความรู้สึกเหมือนอยู่บ้านตัวเอง เราตั้งอยู่ในย่านคอหงส์ (ซอยเพชรเกษม 10) ที่หลีกหนีความวุ่นวายแต่ยังเดินทางสะดวก ใกล้สถานที่สำคัญทั้ง ม.อ. เซ็นทรัลเฟสติวัล และโรงพยาบาลกรุงเทพหาดใหญ่ เราให้ความสำคัญกับความสะอาด ความปลอดภัย และความคุ้มค่า ไม่ว่าคุณจะมาพักผ่อนกับครอบครัว ท่องเที่ยว หรือติดต่อธุรกิจ เราพร้อมดูแลและต้อนรับคุณเสมอ",
+        "details": [
+          "เราออกแบบประสบการณ์การเข้าพักให้เรียบง่าย ตั้งแต่การสอบถามห้องพัก การเดินทางมาถึง ไปจนถึงการพักผ่อนในแต่ละวัน",
+          "บรรยากาศที่เป็นส่วนตัวและทำเลที่เดินทางสะดวก ทำให้ที่พักของเราเหมาะทั้งกับการพักระยะสั้นและการพักอาศัยเป็นช่วงเวลา"
+        ],
+        "facts": {
+          "location": "ทำเล",
+          "stay": "รูปแบบการเข้าพัก",
+          "stayType": "รายวันและรายเดือน",
+          "hours": "เวลาติดต่อ"
+        }
+      },
+      "rooms": {
+        "title": "เลือกห้องที่เหมาะกับการเข้าพัก",
+        "subtitle": "ดูประเภทห้อง พื้นที่ สิ่งอำนวยความสะดวก และราคาเริ่มต้นก่อนตัดสินใจจอง",
+        "roomType": "ประเภทห้องพัก",
+        "startingFrom": "ราคาเริ่มต้น",
+        "perNight": "/ คืน",
+        "guests": "ท่าน",
+        "squareMeters": "ตร.ม.",
+        "available": "ว่าง",
+        "full": "เต็ม",
+        "viewDetails": "ดูรายละเอียดห้อง",
+        "viewAll": "ดูห้องพักทั้งหมด",
+        "imageAlt": "ภาพห้องพัก",
+        "galleryTitle": "บรรยากาศภายในที่พัก",
+        "gallerySubtitle": "ชมภาพห้องพักและบรรยากาศโดยรอบ เพื่อช่วยให้คุณเลือกห้องที่ตรงกับความต้องการ",
+        "galleryAlt": "ภาพบรรยากาศ StayWithMe77",
+        "galleryLabels": {
+          "standard": "ห้องสแตนดาร์ด",
+          "deluxe": "ห้องดีลักซ์",
+          "family": "ห้องแฟมิลี่",
+          "atmosphere": "บรรยากาศที่พัก"
+        },
+        "contactForAvailability": "ราคาและสถานะห้องอาจเปลี่ยนแปลงตามวันที่เข้าพัก สอบถามเพิ่มเติมได้ที่ {phone}"
+      },
+      "values": {
+        "title": "ทำไมถึงต้องเลือกที่พักของเรา?",
+        "items": [
+          {
+            "title": "ทำเลที่ตั้งคอหงส์ เดินทางสะดวก",
+            "description": "ตั้งอยู่ที่ เพชรเกษม ซอย 10 คอหงส์ ใกล้ ม.อ. โรงพยาบาลกรุงเทพหาดใหญ่ และเซ็นทรัลเฟสติวัลหาดใหญ่ (เพียง 3.7 กม.)"
+          },
+          {
+            "title": "สะอาด ปลอดภัย เป็นส่วนตัว",
+            "description": "เรสซิเดนซ์ของเราเงียบสงบ เหมาะแก่การพักผ่อน พร้อมระบบรักษาความปลอดภัยเพื่อให้คุณอุ่นใจ"
+          },
+          {
+            "title": "มีที่จอดรถส่วนตัว",
+            "description": "หมดกังวลเรื่องที่จอดรถ เรามีพื้นที่จอดรถกว้างขวางและปลอดภัยให้บริการฟรีสำหรับผู้เข้าพักทุกห้อง"
+          },
+          {
+            "title": "ห้องพักกว้างขวางสำหรับครอบครัว",
+            "description": "เรามีห้องพักที่มีพื้นที่กว้างขวาง มีระเบียง สามารถรองรับครอบครัวขนาด 1-4 คนได้อย่างสะดวกสบาย"
+          }
+        ]
+      },
+      "cta": {
+        "title": "พร้อมที่จะพักกับเราหรือยัง?",
+        "text": "จองห้องพักคอหงส์ หาดใหญ่ โดยตรงกับเราวันนี้ เพื่อรับข้อเสนอและราคาที่ดีที่สุด",
+        "button": "จองผ่าน WhatsApp ตอนนี้"
+      }
+    }
+  },
+  "en": {
+    "AboutPage": {
+      "metaTitle": "About Us | Stay With Me 77@Hatyai Residence",
+      "metaDescription": "Hat Yai accommodation near PSU, Central Festival, and Bangkok Hospital. Spacious daily and monthly rooms with private parking at Phetkasem Soi 10, Kho Hong.",
+      "hero": {
+        "title": "About Us",
+        "subtitle": "Stay With Me 77@Hatyai Residence — Spacious Hat Yai accommodation that feels just like home",
+        "imageAlt": "Stay With Me 77 room in Hat Yai"
+      },
+      "story": {
+        "title": "Our Story",
+        "description": "Stay With Me 77@Hatyai Residence was born out of a desire to provide everyone visiting Hat Yai with quiet daily and monthly accommodation that feels like their own home. Located in the Kho Hong area (Phetkasem Soi 10), we offer a peaceful retreat that is highly convenient, being close to key locations like PSU, Central Festival Hat Yai, and Bangkok Hospital. We prioritize cleanliness, security, and value for money. Whether traveling with family, for leisure, or business, we are ready to welcome you.",
+        "details": [
+          "We keep the stay simple and thoughtful—from your first enquiry to arrival and every quiet moment in between.",
+          "A private atmosphere and convenient location make our residence suitable for short visits and longer stays alike."
+        ],
+        "facts": {
+          "location": "Location",
+          "stay": "Stay type",
+          "stayType": "Daily & monthly",
+          "hours": "Contact hours"
+        }
+      },
+      "rooms": {
+        "title": "Find the right room for your stay",
+        "subtitle": "Compare room types, sizes, amenities, and starting nightly rates before you book.",
+        "roomType": "Room type",
+        "startingFrom": "Starting from",
+        "perNight": "/ night",
+        "guests": "guests",
+        "squareMeters": "sq m",
+        "available": "Available",
+        "full": "Full",
+        "viewDetails": "View room details",
+        "viewAll": "View all rooms",
+        "imageAlt": "room photo",
+        "galleryTitle": "Inside StayWithMe77",
+        "gallerySubtitle": "See more of our rooms and the atmosphere around the residence before choosing your stay.",
+        "galleryAlt": "StayWithMe77 atmosphere",
+        "galleryLabels": {
+          "standard": "Standard room",
+          "deluxe": "Deluxe room",
+          "family": "Family room",
+          "atmosphere": "Residence atmosphere"
+        },
+        "contactForAvailability": "Rates and availability may vary by stay date. Contact us at {phone} for the latest information."
+      },
+      "values": {
+        "title": "Why Choose Our Residence?",
+        "items": [
+          {
+            "title": "Convenient Kho Hong Location",
+            "description": "Located at Phetkasem Soi 10, Kho Hong. Close to PSU, Bangkok Hospital Hat Yai, and just 3.7 km from Central Festival."
+          },
+          {
+            "title": "Clean, Secure & Private",
+            "description": "Our residence offers a peaceful environment perfect for relaxation, with security systems in place for your peace of mind."
+          },
+          {
+            "title": "Private Parking Available",
+            "description": "No need to worry about parking. We offer a spacious, safe, and free parking area for all our guests."
+          },
+          {
+            "title": "Spacious Family Rooms",
+            "description": "We offer spacious rooms with balconies, comfortably accommodating families of 1 to 4 people."
+          }
+        ]
+      },
+      "cta": {
+        "title": "Ready to stay with us?",
+        "text": "Book your Hat Yai accommodation directly with us today to get the best offers and lowest prices.",
+        "button": "Book via WhatsApp Now"
+      }
+    }
+  }
+}
+

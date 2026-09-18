@@ -1,0 +1,18 @@
+{
+  "th": {
+    "RoomsSection": {
+      "title": "เลือกห้องที่ใช่สำหรับคุณ",
+      "subtitle": "เริ่มต้น ฿900 / คืน มีห้องพักหลากหลายรูปแบบ",
+      "viewAll": "ดูห้องทั้งหมด",
+      "viewMore": "ดูเพิ่มเติม"
+    }
+  },
+  "en": {
+    "RoomsSection": {
+      "title": "Find the right room for you",
+      "subtitle": "A variety of rooms from THB 900 per night",
+      "viewAll": "View all rooms",
+      "viewMore": "View more"
+    }
+  }
+}

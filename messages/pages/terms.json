@@ -1,0 +1,138 @@
+{
+  "th": {
+    "TermsPage": {
+      "metaTitle": "ข้อตกลงการใช้บริการ",
+      "metaDescription": "ข้อตกลงและเงื่อนไขการจองห้องพัก Stay With Me 77",
+      "title": "ข้อตกลงการใช้บริการ",
+      "updated": "Terms of Service · ปรับปรุงล่าสุด: 1 กันยายน 2569",
+      "toc": "สารบัญ",
+      "intro": "การจองหรือเข้าพักถือว่าคุณยอมรับข้อตกลงและเงื่อนไขต่อไปนี้",
+      "controller": "Stay With Me 77",
+      "address": "ถ.กาญจนวณิชย์, หาดใหญ่, สงขลา 90110",
+      "sections": [
+        {
+          "id": "booking",
+          "title": "1. การจองห้องพัก",
+          "body": "การจองสมบูรณ์เมื่อได้รับการยืนยันจากทีมงาน",
+          "list": [
+            "ระบุวันและจำนวนผู้เข้าพักให้ถูกต้อง",
+            "ราคายืนยันอาจต่างตามช่วงเวลา",
+            "ที่พักอาจปฏิเสธเมื่อห้องไม่ว่าง"
+          ]
+        },
+        {
+          "id": "payment",
+          "title": "2. การชำระเงินและการยกเลิก",
+          "body": "การชำระเงินและยกเลิกเป็นไปตามเงื่อนไขที่แจ้งเมื่อจอง",
+          "list": [
+            "ชำระตามช่องทางที่ตกลง",
+            "ยกเลิกฟรีก่อน 48 ชั่วโมงเมื่อเงื่อนไขอนุญาต",
+            "ยกเลิกใกล้วันเข้าพักอาจมีค่าธรรมเนียม",
+            "No-show ไม่คืนเงิน"
+          ]
+        },
+        {
+          "id": "rules",
+          "title": "3. กฎระเบียบที่พัก",
+          "body": "โปรดเคารพความปลอดภัยและความสงบของผู้เข้าพักทุกคน",
+          "list": [
+            "ห้ามสูบบุหรี่ภายในอาคาร",
+            "ห้ามนำสัตว์เลี้ยงเข้าพัก",
+            "งดเสียงดังหลัง 22:00 น.",
+            "แจ้งบุคคลภายนอกก่อนเข้าพัก",
+            "รับผิดชอบความเสียหายที่เกิดขึ้น"
+          ]
+        },
+        {
+          "id": "checkin",
+          "title": "4. เช็คอิน – เช็คเอาท์",
+          "body": "เช็คอินตั้งแต่ 14:00 น. และเช็คเอาท์ก่อน 10:00 น.",
+          "list": [
+            "เวลาอื่นขึ้นอยู่กับความพร้อม",
+            "อาจมีค่าบริการสำหรับเช็คเอาท์ล่าช้า",
+            "แสดงเอกสารยืนยันตัวตนเมื่อเช็คอิน"
+          ]
+        },
+        {
+          "id": "liability",
+          "title": "5. ความรับผิดชอบ",
+          "body": "ที่พักดูแลความปลอดภัยอย่างเหมาะสม แต่ไม่รับผิดชอบต่อความเสียหายจากความประมาท เหตุสุดวิสัย หรือทรัพย์สินที่ไม่ได้ฝากไว้"
+        },
+        {
+          "id": "contact",
+          "title": "6. ติดต่อเรา",
+          "body": "หากมีคำถามเกี่ยวกับข้อตกลง กรุณาติดต่อเรา",
+          "isContact": true
+        }
+      ]
+    }
+  },
+  "en": {
+    "TermsPage": {
+      "metaTitle": "Terms of service",
+      "metaDescription": "Booking and accommodation terms for Stay With Me 77",
+      "title": "Terms of service",
+      "updated": "Terms of Service · Last updated: 1 September 2026",
+      "toc": "Contents",
+      "intro": "By booking or staying with us, you agree to the following terms and conditions.",
+      "controller": "Stay With Me 77",
+      "address": "Kanchanavanich Road, Hat Yai, Songkhla 90110",
+      "sections": [
+        {
+          "id": "booking",
+          "title": "1. Room bookings",
+          "body": "A booking is complete after confirmation from our team.",
+          "list": [
+            "Provide correct dates and guest numbers",
+            "Confirmed prices may vary by period and promotion",
+            "The property may decline a booking when rooms are unavailable"
+          ]
+        },
+        {
+          "id": "payment",
+          "title": "2. Payment and cancellation",
+          "body": "Payment and cancellation follow the conditions provided at the time of booking.",
+          "list": [
+            "Pay through the agreed method",
+            "Free cancellation at least 48 hours before arrival where permitted",
+            "Late cancellation may incur a fee",
+            "No-shows are non-refundable"
+          ]
+        },
+        {
+          "id": "rules",
+          "title": "3. Property rules",
+          "body": "Please respect the safety and comfort of all guests.",
+          "list": [
+            "No smoking indoors",
+            "No pets",
+            "Keep noise low after 10:00 PM",
+            "Notify staff before bringing outside visitors",
+            "Guests are responsible for damage they cause"
+          ]
+        },
+        {
+          "id": "checkin",
+          "title": "4. Check-in and check-out",
+          "body": "Check-in is from 5:00 PM and check-out is before 10:00 AM.",
+          "list": [
+            "Other times are subject to availability",
+            "Late check-out may incur a fee",
+            "Present identification at check-in"
+          ]
+        },
+        {
+          "id": "liability",
+          "title": "5. Liability",
+          "body": "The property takes reasonable security measures but is not liable for loss caused by guest negligence, force majeure or valuables not placed in our care."
+        },
+        {
+          "id": "contact",
+          "title": "6. Contact us",
+          "body": "Contact us if you have questions about these terms.",
+          "isContact": true
+        }
+      ]
+    }
+  }
+}

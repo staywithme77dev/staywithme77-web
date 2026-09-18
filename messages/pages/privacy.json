@@ -1,0 +1,140 @@
+{
+  "th": {
+    "PrivacyPage": {
+      "metaTitle": "นโยบายความเป็นส่วนตัว",
+      "metaDescription": "Stay With Me 77 ให้ความสำคัญกับการคุ้มครองข้อมูลส่วนบุคคลของผู้เข้าพักตามพระราชบัญญัติ PDPA",
+      "title": "นโยบายความเป็นส่วนตัว",
+      "updated": "Privacy Policy · ปรับปรุงล่าสุด: 1 กันยายน 2569",
+      "toc": "สารบัญ",
+      "intro": [
+        "Stay With Me 77 ตระหนักถึงความสำคัญของการคุ้มครองข้อมูลส่วนบุคคลของผู้เข้าพักทุกท่าน นโยบายฉบับนี้อธิบายวิธีที่เราเก็บรวบรวม ใช้งาน และปกป้องข้อมูลส่วนบุคคลของคุณ",
+        "การใช้บริการหรือเว็บไซต์ของ Stay With Me 77 ถือว่าคุณยอมรับนโยบายความเป็นส่วนตัวฉบับนี้"
+      ],
+      "changeCookies": "ต้องการเปลี่ยนการตั้งค่าคุกกี้หรือไม่?",
+      "controller": "Stay With Me 77 (ผู้ควบคุมข้อมูลส่วนบุคคล)",
+      "address": "ถ.กาญจนวณิชย์, หาดใหญ่, สงขลา 90110",
+      "sections": [
+        {
+          "id": "data-collection",
+          "title": "1. การเก็บรวบรวมข้อมูลส่วนบุคคล",
+          "body": "เราเก็บข้อมูลเท่าที่จำเป็นสำหรับการจอง ได้แก่ ชื่อ หมายเลขโทรศัพท์ วันเข้าพัก จำนวนผู้เข้าพัก และข้อมูลทางเทคนิคเมื่อได้รับความยินยอม"
+        },
+        {
+          "id": "purpose",
+          "title": "2. วัตถุประสงค์ในการใช้ข้อมูล",
+          "body": "เราใช้ข้อมูลเพื่อให้บริการและดูแลการเข้าพัก",
+          "list": [
+            "ยืนยันและจัดการการจอง",
+            "ติดต่อก่อน ระหว่าง และหลังการเข้าพัก",
+            "ส่งข่าวสารเมื่อได้รับความยินยอม",
+            "ปรับปรุงคุณภาพบริการ"
+          ]
+        },
+        {
+          "id": "security",
+          "title": "3. การเก็บรักษาและความปลอดภัยของข้อมูล",
+          "body": "ข้อมูลถูกจำกัดการเข้าถึงและเก็บไม่เกิน 3 ปีหลังการเข้าพักครั้งสุดท้าย เว้นแต่กฎหมายกำหนดไว้เป็นอย่างอื่น"
+        },
+        {
+          "id": "pdpa-rights",
+          "title": "4. สิทธิ์ของท่านตามกฎหมาย PDPA",
+          "body": "คุณสามารถใช้สิทธิตามกฎหมายได้",
+          "list": [
+            "ถอนความยินยอม",
+            "ขอเข้าถึงและรับสำเนาข้อมูล",
+            "ขอแก้ไขข้อมูล",
+            "ขอลบหรือระงับการใช้ข้อมูล",
+            "ขอโอนย้ายข้อมูล"
+          ]
+        },
+        {
+          "id": "cookies",
+          "title": "5. การใช้คุกกี้ (Cookies)",
+          "body": "คุณสามารถเลือกคุกกี้ที่ไม่จำเป็นได้จากเมนูจัดการคุกกี้",
+          "list": [
+            "swm_cookie_consent — จำการตั้งค่าความยินยอม 180 วัน",
+            "Essential — ทำให้เว็บไซต์ทำงานได้",
+            "Analytics — โหลด Google Analytics เมื่อยินยอมเท่านั้น",
+            "Marketing — ยังไม่มีการใช้งาน",
+            "ถอนความยินยอมได้ทุกเมื่อจากส่วนท้ายเว็บไซต์"
+          ]
+        },
+        {
+          "id": "contact",
+          "title": "6. การติดต่อเรา",
+          "body": "หากต้องการใช้สิทธิ์หรือมีคำถาม กรุณาติดต่อผู้ควบคุมข้อมูลส่วนบุคคล",
+          "isContact": true
+        }
+      ]
+    }
+  },
+  "en": {
+    "PrivacyPage": {
+      "metaTitle": "Privacy policy",
+      "metaDescription": "Stay With Me 77 protects guests' personal information in accordance with Thailand's PDPA",
+      "title": "Privacy policy",
+      "updated": "Privacy Policy · Last updated: 1 September 2026",
+      "toc": "Contents",
+      "intro": [
+        "Stay With Me 77 recognises the importance of protecting every guest's personal information. This policy explains how we collect, use and safeguard your information.",
+        "By using our services or website, you acknowledge this privacy policy."
+      ],
+      "changeCookies": "Would you like to change your cookie preferences?",
+      "controller": "Stay With Me 77 (Data Controller)",
+      "address": "Kanchanavanich Road, Hat Yai, Songkhla 90110",
+      "sections": [
+        {
+          "id": "data-collection",
+          "title": "1. Personal information we collect",
+          "body": "We collect only information necessary to provide booking services, including your name, phone number, stay dates, number of guests and technical data where consent is required."
+        },
+        {
+          "id": "purpose",
+          "title": "2. How we use information",
+          "body": "We use information to provide and improve your stay.",
+          "list": [
+            "Confirm and manage bookings",
+            "Communicate before, during and after your stay",
+            "Send updates or promotions with consent",
+            "Improve service quality"
+          ]
+        },
+        {
+          "id": "security",
+          "title": "3. Retention and security",
+          "body": "Access is restricted to authorised personnel. Information is normally retained for no longer than three years after the last stay unless a longer period is required by law."
+        },
+        {
+          "id": "pdpa-rights",
+          "title": "4. Your rights under the PDPA",
+          "body": "You may exercise applicable legal rights.",
+          "list": [
+            "Withdraw consent",
+            "Request access and a copy of your data",
+            "Request correction",
+            "Request deletion or restriction",
+            "Request data portability"
+          ]
+        },
+        {
+          "id": "cookies",
+          "title": "5. Cookies",
+          "body": "You can choose non-essential cookies through Cookie settings.",
+          "list": [
+            "swm_cookie_consent — stores consent preferences for 180 days",
+            "Essential — required for the website to work",
+            "Analytics — Google Analytics loads only after consent",
+            "Marketing — not currently in use",
+            "Withdraw consent at any time from the website footer"
+          ]
+        },
+        {
+          "id": "contact",
+          "title": "6. Contact us",
+          "body": "To exercise your rights or ask a privacy question, contact the Data Controller.",
+          "isContact": true
+        }
+      ]
+    }
+  }
+}

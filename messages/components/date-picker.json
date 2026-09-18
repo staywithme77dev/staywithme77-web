@@ -1,0 +1,44 @@
+{
+  "th": {
+    "DatePicker": {
+      "selectDate": "เลือกวัน",
+      "checkIn": "เช็คอิน",
+      "checkOut": "เช็คเอาท์",
+      "nights": "{count} คืน",
+      "stayNights": "เข้าพัก {count} คืน",
+      "stayDates": "วันเข้าพัก",
+      "selectDateTime": "เลือกวัน-เวลา",
+      "selectStayDates": "เลือกวันเข้าพัก",
+      "selectCheckIn": "เลือกวันเช็คอิน",
+      "selectCheckOut": "เลือกวันเช็คเอาท์",
+      "selectCheckInFirst": "เลือกวันเช็คอินก่อน",
+      "close": "ปิดตัวเลือกวัน",
+      "previousMonth": "เดือนก่อนหน้า",
+      "nextMonth": "เดือนถัดไป",
+      "clear": "ล้างวันที่",
+      "confirmNights": "ยืนยัน {count} คืน",
+      "confirm": "ยืนยันวันที่"
+    }
+  },
+  "en": {
+    "DatePicker": {
+      "selectDate": "Select date",
+      "checkIn": "Check-in",
+      "checkOut": "Check-out",
+      "nights": "{count} nights",
+      "stayNights": "Stay for {count} nights",
+      "stayDates": "Stay dates",
+      "selectDateTime": "Select dates",
+      "selectStayDates": "Select stay dates",
+      "selectCheckIn": "Select check-in",
+      "selectCheckOut": "Select check-out",
+      "selectCheckInFirst": "Select check-in first",
+      "close": "Close date picker",
+      "previousMonth": "Previous month",
+      "nextMonth": "Next month",
+      "clear": "Clear dates",
+      "confirmNights": "Confirm {count} nights",
+      "confirm": "Confirm dates"
+    }
+  }
+}

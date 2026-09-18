@@ -1,0 +1,44 @@
+{
+  "th": {
+    "Cookie": {
+      "manage": "จัดการคุกกี้",
+      "label": "การตั้งค่าคุกกี้",
+      "title": "เราใช้คุกกี้เพื่อปรับปรุงประสบการณ์ใช้งาน",
+      "description": "คุกกี้ที่จำเป็นทำให้เว็บไซต์ทำงานได้ปกติ ส่วน Analytics จะช่วยให้เราปรับปรุงเว็บ โดยจะเปิดใช้เมื่อคุณยินยอมเท่านั้น",
+      "privacy": "นโยบายความเป็นส่วนตัว",
+      "settings": "ตั้งค่าคุกกี้",
+      "reject": "ปฏิเสธ",
+      "accept": "ยอมรับทั้งหมด",
+      "settingsTitle": "ตั้งค่าคุกกี้",
+      "essential": "คุกกี้จำเป็น",
+      "essentialDesc": "จำเป็นต่อการทำงานของเว็บไซต์",
+      "analytics": "คุกกี้วิเคราะห์",
+      "analyticsDesc": "ช่วยวัดสถิติและปรับปรุงเว็บไซต์",
+      "marketing": "คุกกี้การตลาด",
+      "marketingDesc": "ยังไม่มีการใช้งานในขณะนี้",
+      "save": "บันทึกการตั้งค่า",
+      "close": "ปิด"
+    }
+  },
+  "en": {
+    "Cookie": {
+      "manage": "Cookie settings",
+      "label": "Cookie preferences",
+      "title": "We use cookies to improve your experience",
+      "description": "Essential cookies keep the website working. Analytics helps us improve the site and is enabled only with your consent.",
+      "privacy": "Privacy policy",
+      "settings": "Cookie settings",
+      "reject": "Reject",
+      "accept": "Accept all",
+      "settingsTitle": "Cookie settings",
+      "essential": "Essential cookies",
+      "essentialDesc": "Required for the website to function",
+      "analytics": "Analytics cookies",
+      "analyticsDesc": "Help us measure and improve the website",
+      "marketing": "Marketing cookies",
+      "marketingDesc": "Not currently in use",
+      "save": "Save preferences",
+      "close": "Close"
+    }
+  }
+}

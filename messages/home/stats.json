@@ -1,0 +1,56 @@
+{
+  "th": {
+    "Stats": {
+      "aria": "จุดเด่นของที่พัก",
+      "items": [
+        {
+          "value": "6",
+          "label": "ห้องพักพร้อมเลือก",
+          "accent": "ห้อง"
+        },
+        {
+          "value": "4.9/5",
+          "label": "คะแนนจากผู้เข้าพัก",
+          "accent": "รีวิว"
+        },
+        {
+          "value": "24 ชม.",
+          "label": "บริการช่วยเหลือ",
+          "accent": "ดูแลคุณ"
+        },
+        {
+          "value": "ดีที่สุด",
+          "label": "ราคาจองตรง",
+          "accent": "การันตี"
+        }
+      ]
+    }
+  },
+  "en": {
+    "Stats": {
+      "aria": "Accommodation highlights",
+      "items": [
+        {
+          "value": "6",
+          "label": "rooms to choose from",
+          "accent": "rooms"
+        },
+        {
+          "value": "4.9/5",
+          "label": "guest rating",
+          "accent": "reviews"
+        },
+        {
+          "value": "24 hrs",
+          "label": "guest assistance",
+          "accent": "support"
+        },
+        {
+          "value": "best",
+          "label": "direct booking price",
+          "accent": "guaranteed"
+        }
+      ]
+    }
+  }
+}

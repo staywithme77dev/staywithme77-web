@@ -1,0 +1,67 @@
+{
+  "th": {
+    "Hero": {
+      "titles": [
+        "StayWithMe 77 @HatYai",
+        "ที่พักหาดใหญ่",
+        "พักสบาย ใจกลางเมือง",
+        "จองตรง ราคาดีที่สุด"
+      ],
+      "features": [
+        "สะอาด สะดวก มีที่จอดรถฟรีบริเวณที่พัก",
+        "บริการช่วยเหลือตลอด 24 ชั่วโมง",
+        "ราคาดีที่สุด จองตรงไม่ผ่านแพลตฟอร์ม",
+        "เช็คอิน – เช็คเอาท์ยืดหยุ่นตามนัด"
+      ],
+      "location": "StayWithMe 77",
+      "guestCount": "จำนวนผู้เข้าพัก",
+      "decrease": "ลด",
+      "increase": "เพิ่ม",
+      "search": "ค้นหาห้องพัก",
+      "searching": "กำลังค้นหา...",
+      "dateError": "กรุณาเลือกวันเช็คอินและเช็คเอาท์ก่อนค้นหา",
+      "loadingSubtitle": "กำลังคัดสรรห้องพักให้คุณ",
+      "loadingTitle": "กำลังค้นหาห้องพัก",
+      "loadingBody": "เรากำลังเปรียบเทียบห้องว่างและราคาที่ดีที่สุด",
+      "loadingSteps": [
+        "กำลังหาห้องที่ดีที่สุด",
+        "กำลังเปรียบเทียบราคาที่ถูกที่สุด",
+        "กำลังตรวจสอบห้องว่าง",
+        "กำลังเตรียมตัวเลือกสำหรับคุณ"
+      ]
+    }
+  },
+  "en": {
+    "Hero": {
+      "titles": [
+        "StayWithMe 77 @HatYai",
+        "Hat Yai accommodation",
+        "Stay comfortably in the city",
+        "Book direct for the best price"
+      ],
+      "features": [
+        "Clean, convenient and free on-site parking",
+        "24-hour guest assistance",
+        "Best direct-booking price with no platform fees",
+        "Flexible check-in and check-out by arrangement"
+      ],
+      "location": "StayWithMe 77",
+      "guestCount": "Number of guests",
+      "decrease": "Decrease",
+      "increase": "Increase",
+      "search": "Search rooms",
+      "searching": "Searching...",
+      "dateError": "Please select check-in and check-out dates before searching",
+      "loadingSubtitle": "We are selecting the right room for you",
+      "loadingTitle": "Searching for rooms",
+      "loadingBody": "We are comparing available rooms and the best prices",
+      "loadingSteps": [
+        "Finding the best rooms",
+        "Comparing the best prices",
+        "Checking availability",
+        "Preparing your options"
+      ]
+    }
+  }
+}
+

@@ -1,0 +1,213 @@
+{
+  "th": {
+    "LocationPage": {
+      "metaTitle": "ที่ตั้งและแผนที่",
+      "metaDescription": "Stay With Me 77 ตั้งอยู่ใจกลางเมืองหาดใหญ่ ใกล้ตลาดกิมหยง ลีการ์เดนส์ และสถานที่สำคัญมากมาย",
+      "title": "แผนที่ & การเดินทาง",
+      "subtitle": "Stay With Me 77 — ตั้งอยู่ใจกลางหาดใหญ่ เดินทางสะดวกจากทุกทิศ",
+      "breadcrumb": "ที่ตั้ง",
+      "mapTitle": "แผนที่ Stay With Me 77",
+      "mapBadge": "เดินทางมาหาเรา",
+      "mapIntro": "ดูตำแหน่งที่พักและเปิดเส้นทางไปยัง Stay With Me 77 ได้ทันที",
+      "illustrativeMapAlt": "ภาพประกอบแผนที่สามมิติแสดงทำเล Stay With Me 77 และสถานที่ใกล้เคียงในหาดใหญ่",
+      "viewFullMap": "ดูแผนที่เต็มภาพ",
+      "exactMapLabel": "แผนที่จริง · Google Maps",
+      "addressLabel": "ที่อยู่ของเรา",
+      "checkIn": "เช็กอิน",
+      "checkOut": "เช็กเอาต์",
+      "serviceHours": "เวลาติดต่อ",
+      "contactLabel": "โทรสอบถาม",
+      "callUs": "โทรหาเรา",
+      "openMaps": "เปิดใน Google Maps",
+      "nearby": "สถานที่ใกล้เคียง",
+      "nearbySubtitle": "ทำเลคอหงส์ช่วยให้เดินทางไปยังแหล่งช้อปปิ้ง ร้านอาหาร มหาวิทยาลัย และสถานที่สำคัญในหาดใหญ่ได้สะดวก",
+      "directions": "วิธีการเดินทางมาถึง",
+      "directionsSubtitle": "เลือกวิธีเดินทางที่สะดวกสำหรับคุณ แล้วปักหมุดที่พักไว้ใน Google Maps ได้เลย",
+      "ctaTitle": "พร้อมเดินทางมาพักแล้วใช่ไหม?",
+      "ctaText": "ตรวจสอบห้องพักและรายละเอียดก่อนวางแผนการเดินทาง",
+      "ctaButton": "ดูห้องพัก",
+      "categories": [
+        {
+          "category": "ช้อปปิ้ง & ตลาด",
+          "places": [
+            [
+              "ตลาดกิมหยง",
+              "5 นาที",
+              "ตลาดชื่อดังที่สุดของหาดใหญ่"
+            ],
+            [
+              "ลีการ์เดนส์ พลาซ่า",
+              "8 นาที",
+              "ห้างสรรพสินค้าใจกลางเมือง"
+            ],
+            [
+              "ตลาดเกษตร",
+              "10 นาที",
+              "ตลาดสดเช้า อาหารอร่อย"
+            ]
+          ]
+        },
+        {
+          "category": "การเดินทาง",
+          "places": [
+            [
+              "สถานีรถไฟหาดใหญ่",
+              "12 นาที",
+              "รถไฟสายใต้"
+            ],
+            [
+              "สถานีขนส่งผู้โดยสาร",
+              "10 นาที",
+              "รถโดยสารระหว่างจังหวัด"
+            ],
+            [
+              "สนามบินนานาชาติหาดใหญ่",
+              "15 นาที",
+              "บินตรงทั่วไทย"
+            ]
+          ]
+        },
+        {
+          "category": "อาหาร & สุขภาพ",
+          "places": [
+            [
+              "ย่านร้านอาหารมุสลิม",
+              "3 นาที",
+              "อาหารฮาลาลหลากหลาย"
+            ],
+            [
+              "โรงพยาบาลหาดใหญ่",
+              "12 นาที",
+              "โรงพยาบาลรัฐขนาดใหญ่"
+            ],
+            [
+              "7-Eleven",
+              "1 นาที",
+              "ร้านสะดวกซื้อหน้าที่พัก"
+            ]
+          ]
+        }
+      ],
+      "travel": [
+        [
+          "จากสนามบิน",
+          "นั่งแท็กซี่หรือ Grab จากสนามบินนานาชาติหาดใหญ่ ระยะทางประมาณ 15 นาที ค่าใช้จ่ายประมาณ 150-200 บาท"
+        ],
+        [
+          "จากสถานีรถไฟ",
+          "นั่ง Grab หรือมอเตอร์ไซค์รับจ้างจากสถานีรถไฟหาดใหญ่ ระยะทางประมาณ 10-12 นาที"
+        ],
+        [
+          "ขับรถมาเอง",
+          "มีที่จอดรถฟรีสำหรับผู้เข้าพักทุกคัน ป้อนพิกัดบน Google Maps ได้เลย"
+        ]
+      ]
+    }
+  },
+  "en": {
+    "LocationPage": {
+      "metaTitle": "Location and map",
+      "metaDescription": "Stay With Me 77 is centrally located in Hat Yai near Kim Yong Market, Lee Garden Plaza and major attractions",
+      "title": "Map & directions",
+      "subtitle": "Stay With Me 77 — centrally located in Hat Yai and easy to reach from every direction",
+      "breadcrumb": "Location",
+      "mapTitle": "Stay With Me 77 map",
+      "mapBadge": "Find your way here",
+      "mapIntro": "View our exact location and open directions to Stay With Me 77 in one tap.",
+      "illustrativeMapAlt": "Three-dimensional illustrated map showing Stay With Me 77 and nearby places in Hat Yai",
+      "viewFullMap": "View full map",
+      "exactMapLabel": "Live map · Google Maps",
+      "addressLabel": "Our address",
+      "checkIn": "Check-in",
+      "checkOut": "Check-out",
+      "serviceHours": "Contact hours",
+      "contactLabel": "Call us",
+      "callUs": "Call the residence",
+      "openMaps": "Open in Google Maps",
+      "nearby": "Nearby places",
+      "nearbySubtitle": "Our Kho Hong location keeps shopping, local food, the university and key Hat Yai destinations within easy reach.",
+      "directions": "How to get here",
+      "directionsSubtitle": "Choose the route that suits you, then save our location in Google Maps before you set off.",
+      "ctaTitle": "Ready for your stay?",
+      "ctaText": "Check our rooms and details before planning your journey.",
+      "ctaButton": "View rooms",
+      "categories": [
+        {
+          "category": "Shopping & markets",
+          "places": [
+            [
+              "Kim Yong Market",
+              "5 min",
+              "Hat Yai's best-known market"
+            ],
+            [
+              "Lee Garden Plaza",
+              "8 min",
+              "Central shopping mall"
+            ],
+            [
+              "Kaset Market",
+              "10 min",
+              "Fresh morning market and local food"
+            ]
+          ]
+        },
+        {
+          "category": "Transport",
+          "places": [
+            [
+              "Hat Yai Railway Station",
+              "12 min",
+              "Southern railway line"
+            ],
+            [
+              "Hat Yai Bus Station",
+              "10 min",
+              "Interprovincial bus services"
+            ],
+            [
+              "Hat Yai International Airport",
+              "15 min",
+              "Direct domestic flights"
+            ]
+          ]
+        },
+        {
+          "category": "Food & health",
+          "places": [
+            [
+              "Muslim restaurant district",
+              "3 min",
+              "A wide choice of halal food"
+            ],
+            [
+              "Hat Yai Hospital",
+              "12 min",
+              "Major public hospital"
+            ],
+            [
+              "7-Eleven",
+              "1 min",
+              "Convenience store near the property"
+            ]
+          ]
+        }
+      ],
+      "travel": [
+        [
+          "From the airport",
+          "Take a taxi or Grab from Hat Yai International Airport. The journey takes around 15 minutes and costs approximately THB 150–200."
+        ],
+        [
+          "From the railway station",
+          "Take Grab or a motorcycle taxi from Hat Yai Railway Station. The journey takes around 10–12 minutes."
+        ],
+        [
+          "Driving",
+          "Free parking is available for every staying guest. Enter our coordinates in Google Maps for directions."
+        ]
+      ]
+    }
+  }
+}
+

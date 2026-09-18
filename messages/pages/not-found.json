@@ -1,0 +1,18 @@
+{
+  "th": {
+    "NotFound": {
+      "title": "ไม่พบหน้าที่คุณกำลังค้นหา",
+      "description": "ดูเหมือนว่าหน้านี้อาจถูกย้าย ลบ หรือไม่มีอยู่ตั้งแต่แรก ลองกลับไปเลือกห้องพักที่เหมาะกับคุณอีกครั้งนะครับ",
+      "backHome": "กลับหน้าหลัก",
+      "viewRooms": "ดูห้องพัก"
+    }
+  },
+  "en": {
+    "NotFound": {
+      "title": "We couldn't find that page",
+      "description": "This page may have moved, disappeared, or never existed. Let’s get you back to a comfortable stay.",
+      "backHome": "Back home",
+      "viewRooms": "View rooms"
+    }
+  }
+}

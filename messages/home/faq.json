@@ -1,0 +1,67 @@
+{
+  "th": {
+    "FAQ": {
+      "title": "คำถามที่พบบ่อย",
+      "subtitle": "รวมคำตอบสำหรับข้อสงสัยเกี่ยวกับการจอง การเข้าพัก และบริการของเรา หากมีคำถามเพิ่มเติมสามารถสอบถามทีมงานได้เลยครับ",
+      "items": [
+        {
+          "question": "เช็คอินและเช็คเอาท์กี่โมง?",
+          "answer": "เช็คอินได้ตั้งแต่ 14:00 น. และเช็คเอาท์ก่อน 12:00 น. หากต้องการเวลาอื่น สามารถแจ้งทีมงานล่วงหน้าเพื่อเช็กความพร้อมได้ครับ"
+        },
+        {
+          "question": "ที่จอดรถกว้างไหม ขับรถกระบะมาจอดได้หรือเปล่า?",
+          "answer": "ลานจอดรถของเรากว้างขวางมากครับ สามารถจอดรถกระบะหรือรถ SUV ขนาดใหญ่ได้สบายๆ และที่สำคัญคือจอดฟรีสำหรับผู้เข้าพักทุกห้อง ปลอดภัยแน่นอนครับ"
+        },
+        {
+          "question": "ดึกๆ แถวที่พักหาของกินง่ายไหม มีอะไรแนะนำบ้าง?",
+          "answer": "หาของกินง่ายมากครับ! ที่พักอยู่ใกล้ 7-11 และในตอนเช้ามีร้านข้าวหมกเปิดอยู่ข้างๆ ที่พักเลยครับ นอกจากนี้ยังตั้งอยู่ในทำเลที่สามารถเดินทางไปย่านของกินยอดฮิต หรือขับรถไปเซ็นทรัลเฟสติวัลและตลาดกิมหยงได้ในเวลาไม่กี่นาที"
+        },
+        {
+          "question": "มีมาตรการรักษาความปลอดภัยอย่างไรบ้าง ปลอดภัยไหม?",
+          "answer": "เราให้ความสำคัญกับความปลอดภัยเป็นอันดับแรกครับ มีระบบกล้องวงจรปิด (CCTV) ตลอด 24 ชั่วโมง และเข้า-ออกอาคารด้วยระบบคีย์การ์ด เพื่อให้คุณอุ่นใจตลอดการพักผ่อน"
+        },
+        {
+          "question": "จองห้องพักผ่านช่องทางไหนได้ราคาดีที่สุด?",
+          "answer": "จองตรงผ่าน WhatsApp ของเราจะได้ราคาดีที่สุดครับ ไม่ผ่านคนกลาง ไม่มีบวกเพิ่ม ทีมงานจะช่วยเช็กห้องว่างและยืนยันราคาให้ทันที"
+        },
+        {
+          "question": "ห้องพักรองรับครอบครัวใหญ่ไหม?",
+          "answer": "เรามีห้อง Family Suite ที่กว้างขวาง สามารถรองรับผู้เข้าพักได้สูงสุด 4 ท่าน เหมาะสำหรับครอบครัวหรือกลุ่มเพื่อนที่ต้องการพื้นที่พักผ่อนร่วมกันครับ"
+        }
+      ]
+    }
+  },
+  "en": {
+    "FAQ": {
+      "title": "Frequently asked questions",
+      "subtitle": "Answers to common questions about bookings, stays and our services. Contact our team if you need anything else.",
+      "items": [
+        {
+          "question": "What are the check-in and check-out times?",
+          "answer": "Check-in is available from 2:00 PM and check-out is before 12:00 PM. Contact our team in advance if you need a different time."
+        },
+        {
+          "question": "Is the parking space wide enough for large cars or pickup trucks?",
+          "answer": "Yes, our parking area is very spacious and can comfortably accommodate large vehicles like SUVs and pickup trucks. Parking is free and secure for all our guests."
+        },
+        {
+          "question": "Is it easy to find food around the residence at night?",
+          "answer": "Absolutely! We are located very close to a 7-11 convenience store. In the morning, there is a delicious Biryani (Khao Mok) shop open right next door. You can also easily drive to popular food spots, Central Festival, and Kim Yong Market in just a few minutes."
+        },
+        {
+          "question": "What are your security measures? Is it safe?",
+          "answer": "Your safety is our top priority. We have 24-hour CCTV surveillance and a secure keycard access system for the building to ensure your peace of mind."
+        },
+        {
+          "question": "How can I book a room to get the best price?",
+          "answer": "Booking directly with us via WhatsApp guarantees the best price. There are no middleman fees, and our team will immediately check availability and confirm your rate."
+        },
+        {
+          "question": "Do you have rooms suitable for large families?",
+          "answer": "Yes, our spacious Family Suites can accommodate up to 4 guests, making them perfect for families or groups of friends wanting to stay together."
+        }
+      ]
+    }
+  }
+}
+

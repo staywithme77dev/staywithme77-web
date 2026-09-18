@@ -1,0 +1,58 @@
+{
+  "th": {
+    "Language": {
+      "label": "เปลี่ยนภาษา",
+      "names": {
+        "th": "ไทย",
+        "en": "English"
+      }
+    },
+    "Common": {
+      "home": "หน้าแรก",
+      "rooms": "ห้องพัก",
+      "location": "ที่ตั้ง",
+      "login": "เข้าสู่ระบบ",
+      "bookNow": "จองเลย",
+      "bookingSoon": "ระบบจองออนไลน์เร็ว ๆ นี้",
+      "whatsapp": "จองผ่าน WhatsApp",
+      "details": "รายละเอียด",
+      "available": "ว่าง",
+      "full": "เต็ม",
+      "night": "คืน",
+      "guests": "ท่าน",
+      "guestCount": "{count} ท่าน",
+      "sqm": "ตร.ม.",
+      "backHome": "กลับสู่หน้าหลัก",
+      "close": "ปิด",
+      "allRooms": "ห้องพักทั้งหมด"
+    }
+  },
+  "en": {
+    "Language": {
+      "label": "Change language",
+      "names": {
+        "th": "ไทย",
+        "en": "English"
+      }
+    },
+    "Common": {
+      "home": "Home",
+      "rooms": "Rooms",
+      "location": "Location",
+      "login": "Sign in",
+      "bookNow": "Book now",
+      "bookingSoon": "Online booking coming soon",
+      "whatsapp": "Book via WhatsApp",
+      "details": "Details",
+      "available": "Available",
+      "full": "Full",
+      "night": "night",
+      "guests": "guests",
+      "guestCount": "{count, plural, one {# guest} other {# guests}}",
+      "sqm": "sq.m.",
+      "backHome": "Back to home",
+      "close": "Close",
+      "allRooms": "All rooms"
+    }
+  }
+}

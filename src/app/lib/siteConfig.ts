@@ -4,10 +4,7 @@ type LocalizedText = Readonly<Record<SiteLocale, string>>;
 
 /**
  * Runtime configuration for the property.
- *
- * Keep operational data here (brand, contact, location and assets). Page copy
- * stays in messages/* so translations can be edited without touching code.
- * Contact values are placeholders until the production details are confirmed.
+ * Keep operational data here; page copy stays in messages/*.
  */
 export const siteConfig = {
   brand: {
@@ -29,12 +26,30 @@ export const siteConfig = {
       display: "081-234-5678",
       href: "tel:0812345678",
     },
+    phones: [
+      { label: "เบอร์หลัก", display: "081-234-5678", href: "tel:0812345678" },
+      { label: "เบอร์สำรอง", display: "064-652-7956", href: "tel:0646527956" },
+    ],
     whatsapp: {
       icon: "whatsapp",
-      display: "081-234-5678",
-      number: "66XXXXXXXXXX",
-      href: "https://wa.me/66XXXXXXXXXX",
+      display: "081-234-5678 | 064-652-7956",
+      number: "66646527956",
+      href: "https://wa.me/66646527956",
     },
+    whatsapps: [
+      {
+        label: "WhatsApp 1",
+        display: "081-234-5678",
+        number: "66812345678",
+        href: "https://wa.me/66812345678",
+      },
+      {
+        label: "WhatsApp 2",
+        display: "064-652-7956",
+        number: "66646527956",
+        href: "https://wa.me/66646527956",
+      },
+    ],
     line: {
       icon: "line",
       display: "@staywithme77",
@@ -43,7 +58,7 @@ export const siteConfig = {
     facebook: {
       icon: "facebook",
       display: "StayWithMe77",
-      href: "https://facebook.com/staywithme77",
+      href: "https://www.facebook.com/StayWithMe77Hatyai",
     },
     email: {
       icon: "email",
@@ -86,11 +101,19 @@ export const siteConfig = {
     },
   },
 
+  bookingLinks: {
+    direct: "",
+    airbnb:
+      "https://th.airbnb.com/users/profile/1758426702186390545?previous_page_name=PdpHomeMarketplace&utm_id=97758_v0_s00_e0_tv1_a1den1ncn1l6d1&fbclid=IwY2xjawUPNjpwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMUY2S0Y4RzlScGFFR3RsOWFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe18IeED4pH4NXODIiwRdOfVQ8u3CUR3WHVizwoy66EbhbynpXYo7_WdPkDSA_aem_wx3923X7cmCgi8orfUcULA",
+    agoda: "",
+    traveloka: "",
+  },
+
   business: {
     priceRange: "฿฿",
     currency: "THB",
-    checkIn: "17:00",
-    checkOut: "10:00",
+    checkIn: "14:00",
+    checkOut: "12:00",
     serviceHours: "08:00–22:00",
   },
 
@@ -98,7 +121,6 @@ export const siteConfig = {
     provider: "Google",
     profileUrl:
       "https://www.google.com/travel/search?q=StayWithMe%2077%20%40HatYai%7C&hl=th-TH&gl=th&ap=ugEHcmV2aWV3cw&ictx=111",
-    // Keep these values in one place until live Places API sync is enabled.
     rating: 4.9,
     reviewCount: 19,
   },

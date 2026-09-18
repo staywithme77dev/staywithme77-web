@@ -1,0 +1,50 @@
+{
+  "th": {
+    "LocationSection": {
+      "title": "Find Us Here",
+      "subtitle": "ทำเลคอหงส์ หาดใหญ่ เดินทางสะดวก ใกล้สถานที่สำคัญและแหล่งไลฟ์สไตล์",
+      "mapTitle": "แผนที่ Stay With Me 77@Hatyai Residence",
+      "openMaps": "เปิดใน Google Maps",
+      "contact": "ติดต่อเรา",
+      "transport": "การเดินทาง",
+      "phone": "โทรศัพท์",
+      "email": "อีเมล",
+      "hours": "เวลาติดต่อ",
+      "address": "77 ถนนเพชรเกษม ซอย 10 คอหงส์ หาดใหญ่ สงขลา 90110",
+      "metrics": [
+        ["สนามบินหาดใหญ่", "ประมาณ 15 นาที", "airport"],
+        ["ใจกลางเมือง", "ประมาณ 10 นาที", "downtown"],
+        ["ม.อ. หาดใหญ่", "ประมาณ 5 นาที", "university"]
+      ],
+      "transportItems": [
+        ["รับส่งสนามบิน", "สอบถามราคา", "airport"],
+        ["รถตู้พร้อมคนขับ", "จองล่วงหน้า", "van"],
+        ["Grab / Taxi", "เรียกใช้ได้ง่าย", "local"]
+      ]
+    }
+  },
+  "en": {
+    "LocationSection": {
+      "title": "Find Us Here",
+      "subtitle": "Conveniently located in Kho Hong, Hat Yai, close to key places and local lifestyle spots.",
+      "mapTitle": "Stay With Me 77@Hatyai Residence map",
+      "openMaps": "Open in Google Maps",
+      "contact": "Contact",
+      "transport": "Transport",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Contact hours",
+      "address": "77 Phetkasem Soi 10, Kho Hong, Hat Yai, Songkhla 90110",
+      "metrics": [
+        ["Hat Yai Airport", "Approx. 15 min", "airport"],
+        ["Downtown Hat Yai", "Approx. 10 min", "downtown"],
+        ["PSU Hat Yai", "Approx. 5 min", "university"]
+      ],
+      "transportItems": [
+        ["Airport transfer", "Ask for rate", "airport"],
+        ["Private van with driver", "Advance booking", "van"],
+        ["Grab / Taxi", "Easy to arrange", "local"]
+      ]
+    }
+  }
+}

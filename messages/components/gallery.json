@@ -1,0 +1,30 @@
+{
+  "th": {
+    "Gallery": {
+      "open": "เปิดดูรูปภาพขนาดใหญ่",
+      "expand": "ขยายรูป",
+      "previous": "รูปก่อนหน้า",
+      "next": "รูปถัดไป",
+      "select": "เลือกรูปที่ {number}",
+      "image": "{name} รูปที่ {number}",
+      "gallery": "รูปภาพ {name}",
+      "close": "ปิดรูปภาพ",
+      "zoomOut": "ย่อรูป",
+      "zoomIn": "ขยายรูป"
+    }
+  },
+  "en": {
+    "Gallery": {
+      "open": "Open full-size image",
+      "expand": "Expand image",
+      "previous": "Previous image",
+      "next": "Next image",
+      "select": "Select image {number}",
+      "image": "{name}, image {number}",
+      "gallery": "Images of {name}",
+      "close": "Close gallery",
+      "zoomOut": "Zoom out",
+      "zoomIn": "Zoom in"
+    }
+  }
+}

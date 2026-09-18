@@ -1,0 +1,90 @@
+{
+  "th": {
+    "LinksPage": {
+      "rooms": "ดูห้องพัก",
+      "roomsDescription": "ดูรายละเอียดห้องพัก",
+      "bookingPlatforms": "จองผ่านแพลตฟอร์มอื่น",
+      "bookingPlatformsDescription": "ดูห้องพักและจองผ่านโปรไฟล์ของเรา",
+      "airbnb": "จองผ่าน Airbnb",
+      "agoda": "จองผ่าน Agoda",
+      "traveloka": "จองผ่าน Traveloka",
+      "map": "แผนที่การเดินทาง",
+      "facebook": "Facebook",
+      "line": "LINE",
+      "whatsapp": "WhatsApp",
+      "phone": "เบอร์โทรศัพท์",
+      "email": "อีเมล",
+      "backHome": "กลับสู่หน้าหลักเว็บไซต์",
+      "share": "แชร์",
+      "roomsHeading": "ห้องพักของเรา",
+      "roomsHint": "เลื่อนเพื่อดูห้องพักทั้งหมด",
+      "promotionsHeading": "โปรโมชั่นพิเศษ",
+      "promotionsHint": "ข้อเสนอพิเศษสำหรับการจองตรง",
+      "viewRoom": "ดูรายละเอียดห้อง",
+      "promotionItems": [
+        {
+          "title": "จองตรง ราคาพิเศษ",
+          "description": "รับข้อเสนอที่ดีที่สุดเมื่อจองกับเราโดยตรง",
+          "badge": "Best rate",
+          "image": "/room-standard.jpg"
+        },
+        {
+          "title": "พักหลายคืน คุ้มกว่า",
+          "description": "เหมาะสำหรับการเข้าพักต่อเนื่องในหาดใหญ่",
+          "badge": "Stay longer",
+          "image": "/room-deluxe.jpg"
+        },
+        {
+          "title": "ห้องสำหรับครอบครัว",
+          "description": "พื้นที่กว้างสำหรับการพักผ่อนพร้อมกัน",
+          "badge": "Family stay",
+          "image": "/room-family.jpg"
+        }
+      ]
+    }
+  },
+  "en": {
+    "LinksPage": {
+      "rooms": "Rooms",
+      "roomsDescription": "View room details",
+      "bookingPlatforms": "Book on other platforms",
+      "bookingPlatformsDescription": "View our rooms and book through our profiles",
+      "airbnb": "Book on Airbnb",
+      "agoda": "Book on Agoda",
+      "traveloka": "Book on Traveloka",
+      "map": "Google Maps",
+      "facebook": "Facebook",
+      "line": "LINE",
+      "whatsapp": "WhatsApp",
+      "phone": "Call Us",
+      "email": "Email",
+      "backHome": "Back to Homepage",
+      "share": "Share",
+      "roomsHeading": "Our rooms",
+      "roomsHint": "Swipe to explore all rooms",
+      "promotionsHeading": "Special offers",
+      "promotionsHint": "Offers for direct bookings",
+      "viewRoom": "View room details",
+      "promotionItems": [
+        {
+          "title": "Best rate when booking direct",
+          "description": "Get our best available offer when you book with us",
+          "badge": "Best rate",
+          "image": "/room-standard.jpg"
+        },
+        {
+          "title": "Stay longer, save more",
+          "description": "A comfortable choice for an extended Hat Yai stay",
+          "badge": "Stay longer",
+          "image": "/room-deluxe.jpg"
+        },
+        {
+          "title": "Made for family stays",
+          "description": "More room to relax and spend time together",
+          "badge": "Family stay",
+          "image": "/room-family.jpg"
+        }
+      ]
+    }
+  }
+}

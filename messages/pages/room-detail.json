@@ -1,0 +1,60 @@
+{
+  "th": {
+    "RoomDetail": {
+      "notFound": "ไม่พบห้องพัก",
+      "rooms": "ห้องพัก",
+      "available": "ว่าง",
+      "full": "เต็มแล้ว",
+      "sqm": "{size} ตร.ม.",
+      "capacity": "รองรับ {count} ท่าน",
+      "amenities": "สิ่งอำนวยความสะดวก",
+      "direct": "จองห้องพักโดยตรง",
+      "directDescription": "จองกับที่พักโดยตรง รับการยืนยันจากทีมงานและข้อเสนอที่ดีที่สุด",
+      "bookDirect": "จองตรงผ่านเว็บไซต์",
+      "otherPlatforms": "หรือจองผ่านแพลตฟอร์มอื่น",
+      "comingSoon": "",
+      "airbnb": "Airbnb",
+      "agoda": "Agoda",
+      "traveloka": "Traveloka",
+      "perNight": "/ คืน",
+      "bestPrice": "ราคาดีที่สุด",
+      "bestPriceText": "เมื่อจองตรงผ่าน WhatsApp ไม่ผ่านแพลตฟอร์มใด",
+      "confirmAvailability": "ยืนยันห้องว่างก่อนชำระเงิน",
+      "support": "ติดต่อทีมงานได้ตลอด 24 ชั่วโมง",
+      "bookWhatsApp": "จองผ่าน WhatsApp",
+      "roomFull": "ห้องนี้เต็มแล้ว",
+      "otherRooms": "← ดูห้องพักอื่น",
+      "recommended": "ห้องพักแนะนำอื่นๆ",
+      "night": "/ คืน"
+    }
+  },
+  "en": {
+    "RoomDetail": {
+      "notFound": "Room not found",
+      "rooms": "Rooms",
+      "available": "Available",
+      "full": "Fully booked",
+      "sqm": "{size} sq.m.",
+      "capacity": "Up to {count} guests",
+      "amenities": "Amenities",
+      "direct": "Book directly",
+      "directDescription": "Book with the property directly for confirmation from our team and the best available offer",
+      "bookDirect": "Book direct on our website",
+      "otherPlatforms": "Or book through another platform",
+      "comingSoon": "",
+      "airbnb": "Airbnb",
+      "agoda": "Agoda",
+      "traveloka": "Traveloka",
+      "perNight": "/ night",
+      "bestPrice": "Best price",
+      "bestPriceText": "when booking directly via WhatsApp with no platform fees",
+      "confirmAvailability": "Availability confirmed before payment",
+      "support": "Guest assistance available 24 hours",
+      "bookWhatsApp": "Book via WhatsApp",
+      "roomFull": "This room is fully booked",
+      "otherRooms": "← View other rooms",
+      "recommended": "Other recommended rooms",
+      "night": "/ night"
+    }
+  }
+}

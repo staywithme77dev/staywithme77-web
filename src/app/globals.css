@@ -5,9 +5,8 @@
   --foreground: #1a1a2e;
   --accent: #c9a84c;
   --accent-dark: #a8892e;
-  --custom-font-sans: var(--font-sarabun), var(--font-ibm-plex-sans-thai), ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --custom-font-sans: var(--font-ibm-plex-sans-thai), var(--font-sarabun), ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --custom-font-display: var(--font-ibm-plex-sans-thai), ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --custom-font-mono: var(--font-ibm-plex-mono), ui-monospace, SFMono-Regular, monospace;
 }
 
 @theme inline {
@@ -16,7 +15,10 @@
   --color-accent: var(--accent);
   --font-sans: var(--custom-font-sans);
   --font-display: var(--custom-font-display);
-  --font-mono: var(--custom-font-mono);
+}
+
+.font-sarabun {
+  font-family: var(--font-sarabun), "Sarabun", sans-serif;
 }
 
 * {
@@ -24,13 +26,35 @@
 }
 
 html {
-  /* Next.js 16: use data-scroll-behavior="smooth" on <html> element instead of CSS */
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--custom-font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button,
+input,
+select,
+textarea {
+  font-family: var(--custom-font-display);
 }
 
 @keyframes blink {
   0%, 100% { opacity: 1; }
   50% { opacity: 0; }
 }
+
 .cursor-blink {
   animation: blink 1s step-end infinite;
 }
@@ -54,13 +78,23 @@ html {
   to { transform: translateY(calc(-100% - var(--gap))); }
 }
 
-.animate-marquee { animation: marquee var(--duration) linear infinite; }
-.animate-marquee-vertical { animation: marquee-vertical var(--duration) linear infinite; }
-.animate-reverse { animation-direction: reverse; }
-.pause-on-hover:hover .animate-marquee,
-.pause-on-hover:hover .animate-marquee-vertical { animation-play-state: paused; }
+.animate-marquee {
+  animation: marquee var(--duration) linear infinite;
+}
 
-/* Override native date input on booking form */
+.animate-marquee-vertical {
+  animation: marquee-vertical var(--duration) linear infinite;
+}
+
+.animate-reverse {
+  animation-direction: reverse;
+}
+
+.pause-on-hover:hover .animate-marquee,
+.pause-on-hover:hover .animate-marquee-vertical {
+  animation-play-state: paused;
+}
+
 input[type="date"].date-overlay {
   position: absolute;
   inset: 0;
@@ -71,138 +105,4 @@ input[type="date"].date-overlay {
   z-index: 2;
   border: none;
   background: transparent;
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: var(--custom-font-sans);
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-/* Use the looped Sarabun face for reading, and the cleaner IBM Plex face for hierarchy/UI. */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-button,
-input,
-select,
-textarea {
-  font-family: var(--custom-font-display);
-}
-
-/* ─── Animations ────────────────────────────── */
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(32px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to   { opacity: 1; }
-}
-
-@keyframes slideUp {
-  from { opacity: 0; transform: translateY(100%); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-.animate-slide-up { animation: slideUp 0.28s ease-out both; }
-
-@keyframes scrollBounce {
-  0%, 100% { transform: translateY(0); }
-  50%       { transform: translateY(8px); }
-}
-
-@keyframes shimmer {
-  0%   { background-position: -200% 0; }
-  100% { background-position: 200% 0; }
-}
-
-.animate-fade-in-up {
-  animation: fadeInUp 0.8s ease both;
-}
-
-.animate-fade-in {
-  animation: fadeIn 1.2s ease both;
-}
-
-.animate-scroll-bounce {
-  animation: scrollBounce 1.8s ease-in-out infinite;
-}
-
-.delay-100 { animation-delay: 0.1s; }
-.delay-200 { animation-delay: 0.2s; }
-.delay-300 { animation-delay: 0.3s; }
-.delay-400 { animation-delay: 0.4s; }
-.delay-500 { animation-delay: 0.5s; }
-.delay-600 { animation-delay: 0.6s; }
-
-/* ─── Gold Button ───────────────────────────── */
-.btn-gold {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  background: linear-gradient(135deg, #c9a84c 0%, #e8c97a 50%, #c9a84c 100%);
-  background-size: 200% auto;
-  color: #1a1a2e;
-  font-weight: 700;
-  padding: 0.85rem 2rem;
-  border-radius: 9999px;
-  transition: background-position 0.4s ease, transform 0.2s ease, box-shadow 0.2s ease;
-  box-shadow: 0 4px 20px rgba(201, 168, 76, 0.35);
-  white-space: nowrap;
-}
-
-.btn-gold:hover {
-  background-position: right center;
-  transform: translateY(-2px);
-  box-shadow: 0 8px 30px rgba(201, 168, 76, 0.5);
-}
-
-.btn-gold:active {
-  transform: translateY(0);
-}
-
-/* ─── Glass Card ────────────────────────────── */
-.glass-card {
-  background: rgba(255, 255, 255, 0.8);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border: 1px solid rgba(255, 255, 255, 0.6);
-}
-
-/* ─── Section Title ─────────────────────────── */
-.section-title {
-  font-size: clamp(1.75rem, 4vw, 2.5rem);
-  font-weight: 700;
-  color: #1a1a2e;
-  letter-spacing: -0.02em;
-  line-height: 1.2;
-}
-
-.section-subtitle {
-  font-size: 1rem;
-  color: #6b7280;
-  font-weight: 400;
-  line-height: 1.6;
-}
-
-.gold-line {
-  display: block;
-  width: 48px;
-  height: 3px;
-  background: linear-gradient(90deg, #c9a84c, #e8c97a);
-  border-radius: 2px;
-  margin: 0.75rem auto 0;
 }

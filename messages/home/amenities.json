@@ -1,0 +1,181 @@
+{
+  "th": {
+    "Amenities": {
+      "title": "สิ่งอำนวยความสะดวก",
+      "subtitle": "ทุกห้องพักพร้อมด้วยสิ่งอำนวยความสะดวกที่คัดสรรมาอย่างดี",
+      "checkInLabel": "เช็คอิน {time} น.",
+      "checkOutLabel": "เช็คเอาท์ {time} น.",
+      "checkInNote": "เป็นต้นไป",
+      "checkOutNote": "ก่อนเวลาออก",
+      "groups": [
+        {
+          "title": "ในห้องพัก",
+          "items": [
+            [
+              "Wi-Fi ฟรี",
+              "ความเร็วสูง ทั้งอาคาร"
+            ],
+            [
+              "แอร์ปรับอากาศ",
+              "ทุกห้อง"
+            ],
+            [
+              "สมาร์ทีวี",
+              "32 นิ้ว"
+            ],
+            [
+              "ตู้เย็น",
+              "ในห้องทุกห้อง"
+            ],
+            [
+              "น้ำอุ่น",
+              "ห้องน้ำส่วนตัว"
+            ],
+            [
+              "เครื่องเป่าผม",
+              "พร้อมใช้งาน"
+            ]
+          ]
+        },
+        {
+          "title": "บริการที่พัก",
+          "items": [
+            [
+              "ที่จอดรถฟรี",
+              "บริเวณที่พัก"
+            ],
+            [
+              "เช็คอิน 24 ชม.",
+              "แจ้งล่วงหน้า"
+            ],
+            [
+              "ทำความสะอาดทุกวัน",
+              "จัดให้เรียบร้อย"
+            ],
+            [
+              "ฝากกระเป๋า",
+              "ก่อน/หลัง เช็คเอาท์"
+            ],
+            [
+              "กุญแจดิจิตอล",
+              "ปลอดภัย"
+            ]
+          ]
+        },
+        {
+          "title": "นโยบายที่พัก",
+          "items": [
+            [
+              "เช็คอิน 14:00 น.",
+              "เป็นต้นไป"
+            ],
+            [
+              "เช็คเอาท์ 12:00 น.",
+              "ก่อนเที่ยง"
+            ],
+            [
+              "ห้ามสูบบุหรี่",
+              "ในอาคารทุกพื้นที่"
+            ],
+            [
+              "กล้องวงจรปิด",
+              "บริเวณส่วนกลาง"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "en": {
+    "Amenities": {
+      "title": "Amenities",
+      "subtitle": "Every room includes carefully selected amenities for a comfortable stay",
+      "checkInLabel": "Check-in from {time}",
+      "checkOutLabel": "Check-out by {time}",
+      "checkInNote": "Onwards",
+      "checkOutNote": "Before departure",
+      "groups": [
+        {
+          "title": "In your room",
+          "items": [
+            [
+              "Free Wi-Fi",
+              "High speed throughout the property"
+            ],
+            [
+              "Air conditioning",
+              "Every room"
+            ],
+            [
+              "Smart TV",
+              "32-inch"
+            ],
+            [
+              "Refrigerator",
+              "Every room"
+            ],
+            [
+              "Hot shower",
+              "Private bathroom"
+            ],
+            [
+              "Hair dryer",
+              "Ready to use"
+            ]
+          ]
+        },
+        {
+          "title": "Property services",
+          "items": [
+            [
+              "Free parking",
+              "On site"
+            ],
+            [
+              "24-hour check-in",
+              "Advance notice required"
+            ],
+            [
+              "Daily housekeeping",
+              "Room kept tidy"
+            ],
+            [
+              "Laundry service",
+              "Additional charge"
+            ],
+            [
+              "Luggage storage",
+              "Before or after check-out"
+            ],
+            [
+              "Digital key",
+              "Safe and secure"
+            ]
+          ]
+        },
+        {
+          "title": "Property policies",
+          "items": [
+            [
+              "Check-in from 2:00 PM",
+              "Onwards"
+            ],
+            [
+              "Check-out by 12:00 PM",
+              "Before noon"
+            ],
+            [
+              "No smoking",
+              "All indoor areas"
+            ],
+            [
+              "CCTV",
+              "Common areas"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}
+

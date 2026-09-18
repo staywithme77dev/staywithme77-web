@@ -1,0 +1,49 @@
+{
+  "th": {
+    "ReviewsPage": {
+      "metaTitle": "\u0e23\u0e35\u0e27\u0e34\u0e27\u0e08\u0e32\u0e01\u0e1c\u0e39\u0e49\u0e40\u0e02\u0e49\u0e32\u0e1e\u0e31\u0e01 | Stay With Me 77",
+      "metaDescription": "\u0e2d\u0e48\u0e32\u0e19\u0e23\u0e35\u0e27\u0e34\u0e27\u0e08\u0e32\u0e01 Google, Airbnb \u0e41\u0e25\u0e30 Facebook \u0e02\u0e2d\u0e07 Stay With Me 77 \u0e17\u0e35\u0e48\u0e1e\u0e31\u0e01\u0e2b\u0e32\u0e14\u0e43\u0e2b\u0e0d\u0e48",
+      "title": "\u0e23\u0e35\u0e27\u0e34\u0e27\u0e17\u0e35\u0e48\u0e0a\u0e48\u0e27\u0e22\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e15\u0e31\u0e14\u0e2a\u0e34\u0e19\u0e43\u0e08\u0e44\u0e14\u0e49\u0e07\u0e48\u0e32\u0e22\u0e02\u0e36\u0e49\u0e19",
+      "subtitle": "\u0e23\u0e27\u0e21\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e08\u0e32\u0e01\u0e1c\u0e39\u0e49\u0e40\u0e02\u0e49\u0e32\u0e1e\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07 \u0e42\u0e14\u0e22\u0e40\u0e23\u0e34\u0e48\u0e21\u0e41\u0e2a\u0e14\u0e07\u0e23\u0e35\u0e27\u0e34\u0e27\u0e08\u0e32\u0e01 Google \u0e01\u0e48\u0e2d\u0e19",
+      "all": "\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14",
+      "google": "Google",
+      "airbnb": "Airbnb",
+      "facebook": "Facebook",
+      "manual": "\u0e23\u0e35\u0e27\u0e34\u0e27\u0e08\u0e32\u0e01\u0e17\u0e35\u0e48\u0e1e\u0e31\u0e01",
+      "live": "\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e21\u0e15\u0e48\u0e2d Google \u0e41\u0e25\u0e49\u0e27",
+      "mock": "\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e15\u0e31\u0e27\u0e2d\u0e22\u0e48\u0e32\u0e07",
+      "noReviews": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e21\u0e35\u0e23\u0e35\u0e27\u0e34\u0e27\u0e08\u0e32\u0e01\u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07\u0e19\u0e35\u0e49",
+      "readOnGoogle": "\u0e14\u0e39\u0e23\u0e35\u0e27\u0e34\u0e27\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e1a\u0e19 Google",
+      "writeReview": "\u0e40\u0e02\u0e35\u0e22\u0e19\u0e23\u0e35\u0e27\u0e34\u0e27\u0e1a\u0e19 Google",
+      "backHome": "\u0e01\u0e25\u0e31\u0e1a\u0e2b\u0e19\u0e49\u0e32\u0e41\u0e23\u0e01",
+      "reviewsCount": "{count} \u0e23\u0e35\u0e27\u0e34\u0e27",
+      "ratingLabel": "\u0e04\u0e30\u0e41\u0e19\u0e19\u0e40\u0e09\u0e25\u0e35\u0e48\u0e22\u0e08\u0e32\u0e01 Google",
+      "previous": "ก่อนหน้า",
+      "next": "ถัดไป"
+    }
+  },
+  "en": {
+    "ReviewsPage": {
+      "metaTitle": "Guest reviews | Stay With Me 77",
+      "metaDescription": "Read reviews from Google, Airbnb and Facebook for Stay With Me 77 in Hat Yai.",
+      "title": "Reviews to help you choose with confidence",
+      "subtitle": "A collection of guest experiences from across our review channels, starting with Google.",
+      "all": "All reviews",
+      "google": "Google",
+      "airbnb": "Airbnb",
+      "facebook": "Facebook",
+      "manual": "From the residence",
+      "live": "Google connected",
+      "mock": "Sample data",
+      "noReviews": "No reviews from this source yet",
+      "readOnGoogle": "Read all reviews on Google",
+      "writeReview": "Write a review on Google",
+      "backHome": "Back to home",
+      "reviewsCount": "{count} reviews",
+      "ratingLabel": "Average Google rating",
+      "previous": "Previous",
+      "next": "Next"
+    }
+  }
+}
+

@@ -1,0 +1,53 @@
+{
+  "th": {
+    "Login": {
+      "metaTitle": "เข้าสู่ระบบ",
+      "metaDescription": "เข้าสู่ระบบ Stay With Me 77 เพื่อดูการจองและสิทธิพิเศษของคุณ",
+      "title": "เข้าสู่ระบบ",
+      "description": "เข้าสู่ระบบเพื่อจัดการการจองและรับสิทธิพิเศษของคุณ",
+      "google": "เข้าสู่ระบบด้วย Google",
+      "divider": "หรือเข้าสู่ระบบด้วยอีเมล",
+      "email": "อีเมล",
+      "password": "รหัสผ่าน",
+      "passwordPlaceholder": "กรอกรหัสผ่าน",
+      "forgot": "ลืมรหัสผ่าน?",
+      "remember": "จดจำการเข้าสู่ระบบ",
+      "submit": "เข้าสู่ระบบ",
+      "noAccount": "ยังไม่มีบัญชี?",
+      "register": "สมัครสมาชิก",
+      "secure": "ข้อมูลของคุณปลอดภัยกับเรา",
+      "showPassword": "แสดงรหัสผ่าน",
+      "hidePassword": "ซ่อนรหัสผ่าน",
+      "back": "กลับหน้าหลัก",
+      "welcome": "ยินดีต้อนรับกลับมา",
+      "heroTitle": "พักผ่อนให้สบาย\nในแบบของคุณ",
+      "heroDescription": "จัดการการจอง ดูรายละเอียดการเข้าพัก และรับสิทธิพิเศษสำหรับสมาชิกได้ในที่เดียว"
+    }
+  },
+  "en": {
+    "Login": {
+      "metaTitle": "Sign in",
+      "metaDescription": "Sign in to Stay With Me 77 to view your bookings and member benefits",
+      "title": "Sign in",
+      "description": "Sign in to manage your bookings and access member benefits",
+      "google": "Continue with Google",
+      "divider": "or sign in with email",
+      "email": "Email",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "forgot": "Forgot password?",
+      "remember": "Remember me",
+      "submit": "Sign in",
+      "noAccount": "Don't have an account?",
+      "register": "Create account",
+      "secure": "Your information is secure with us",
+      "showPassword": "Show password",
+      "hidePassword": "Hide password",
+      "back": "Back to home",
+      "welcome": "Welcome back",
+      "heroTitle": "Relax comfortably\nin your own way",
+      "heroDescription": "Manage bookings, view stay details and access member benefits in one place"
+    }
+  }
+}
+

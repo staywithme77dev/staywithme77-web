@@ -1,0 +1,34 @@
+{
+  "th": {
+    "RoomCard": {
+      "available": "ว่าง",
+      "full": "เต็ม",
+      "guests": "{count} ท่าน",
+      "sqm": "{size} ตร.ม.",
+      "night": "/คืน",
+      "details": "รายละเอียด",
+      "checkAvailability": "จองเลย",
+      "viewRoom": "ดูรายละเอียดห้อง",
+      "checkAvailability": "จองเลย",
+      "viewRoom": "ดูรายละเอียดห้อง",
+      "viewDetails": "ดูรายละเอียด",
+      "book": "จองเลย"
+    }
+  },
+  "en": {
+    "RoomCard": {
+      "available": "Available",
+      "full": "Full",
+      "guests": "{count} guests",
+      "sqm": "{size} sq.m.",
+      "night": "/night",
+      "details": "Details",
+      "checkAvailability": "Book now",
+      "viewRoom": "View room details",
+      "checkAvailability": "Book now",
+      "viewRoom": "View room details",
+      "viewDetails": "View details",
+      "book": "Book now"
+    }
+  }
+}
