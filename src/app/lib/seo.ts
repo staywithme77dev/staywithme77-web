@@ -8,6 +8,12 @@ export const isProductionSite = !/localhost|127\.0\.0\.1/i.test(siteUrl);
 export const siteName = siteConfig.brand.displayName;
 export const siteDescription = `${siteConfig.brand.tagline.th} | ${siteConfig.brand.tagline.en}`;
 
+// Keep one stable favicon URL across every public route. Google applies a
+// favicon at hostname level, not per individual page.
+export const siteIcons: Metadata["icons"] = {
+  icon: [{ url: "/favicon.ico", type: "image/x-icon", sizes: "any" }],
+};
+
 export const siteMetadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
@@ -16,6 +22,7 @@ export const siteMetadata: Metadata = {
   },
   description: siteDescription,
   keywords: [...siteConfig.seo.keywords],
+  icons: siteIcons,
   alternates: { canonical: "/" },
   robots: isProductionSite
     ? { index: true, follow: true }

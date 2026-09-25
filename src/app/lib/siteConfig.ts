@@ -21,8 +21,8 @@ export const siteConfig = {
     displayName: "Stay With Me 77 @Hatyai | Residence",
     shortName: "StayWithMe77",
     tagline: {
-      th: "ที่พักกลางหาดใหญ่ บริการห้องพักรายวัน สะอาด ปลอดภัย จองตรงราคาพิเศษ",
-      en: "A comfortable stay in Hat Yai with clean rooms, direct booking and thoughtful service.",
+      th: "ที่พักรายวันหาดใหญ่ ห้องสะอาด เดินทางสะดวกใกล้กิมหยงและลีการ์เดนส์",
+      en: "Clean daily rooms in Hat Yai, conveniently located near Kim Yong Market and Lee Garden Plaza.",
     } satisfies LocalizedText,
   },
 
@@ -151,12 +151,21 @@ export const siteConfig = {
   seo: {
     keywords: [
       "ที่พักหาดใหญ่",
-      "โรงแรมหาดใหญ่",
       "ห้องพักรายวันหาดใหญ่",
-      "ที่พักราคาถูกหาดใหญ่",
+      "ห้องพักหาดใหญ่",
+      "Stay With Me 77",
+      "StayWithMe77",
+      "ที่พักใกล้กิมหยง",
+      "ที่พักใกล้ตลาดกิมหยง",
+      "ที่พักใกล้ลีการ์เด้น",
+      "ที่พักใกล้ลีการ์เดนส์",
+      "ที่พักใกล้ลีการ์เดนส์พลาซ่า",
       "ที่พักใกล้ ม.อ. หาดใหญ่",
+      "ที่พักใกล้เซ็นทรัลหาดใหญ่",
       "Hat Yai accommodation",
       "daily room Hat Yai",
+      "hotel near Kim Yong Market",
+      "hotel near Lee Garden Plaza",
     ],
     socialImage: {
       path: "/hero-bg.jpg",

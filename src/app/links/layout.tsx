@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "../globals.css";
 import { IBM_Plex_Sans_Thai, Sarabun } from "next/font/google";
+import { siteIcons } from "@/app/lib/seo";
 
 
 const ibmPlexSansThai = IBM_Plex_Sans_Thai({
@@ -25,6 +26,7 @@ export const metadata: Metadata = {
     index: false,
     follow: true,
   },
+  icons: siteIcons,
 };
 
 export default function LinksLayout({
